@@ -3237,7 +3237,7 @@
       "home": "Arsenal",
       "away": "Sunderland",
       "homeScore": 2,
-      "awayScore": 4,
+      "awayScore": 0,
       "homeData": {
         "players": [
           {
@@ -3309,9 +3309,9 @@
           },
           {
             "name": "Pablo",
-            "points": 4,
-            "originalPoints": 2,
-            "captainBonus": 2,
+            "points": 0,
+            "originalPoints": 0,
+            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3328,8 +3328,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 4,
-        "pointsBeforeHits": 4,
+        "totalPoints": 0,
+        "pointsBeforeHits": 0,
         "totalHits": 0
       }
     },
@@ -3943,7 +3943,7 @@
       "gameweek": 25,
       "home": "Liverpool",
       "away": "Man City",
-      "homeScore": -4,
+      "homeScore": 0,
       "awayScore": 3,
       "homeData": {
         "players": [
@@ -3964,7 +3964,7 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -3988,9 +3988,9 @@
             "isCaptain": true
           }
         ],
-        "totalPoints": -4,
+        "totalPoints": 0,
         "pointsBeforeHits": 0,
-        "totalHits": -4
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -4087,7 +4087,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-07T12:55:19.791Z",
+  "lastUpdate": "2026-02-07T12:59:57.761Z",
   "lastCalculatedGW": 25,
   "version": "2.1"
 }
