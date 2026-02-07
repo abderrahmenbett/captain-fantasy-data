@@ -3034,7 +3034,7 @@
       "gameweek": 25,
       "home": "Leeds",
       "away": "Nott'm Forest",
-      "homeScore": 19,
+      "homeScore": 22,
       "awayScore": 1,
       "homeData": {
         "players": [
@@ -3060,8 +3060,8 @@
           },
           {
             "name": "Mustafa",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 3,
+            "originalPoints": 3,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3079,8 +3079,8 @@
             "isCaptain": true
           }
         ],
-        "totalPoints": 19,
-        "pointsBeforeHits": 23,
+        "totalPoints": 22,
+        "pointsBeforeHits": 26,
         "totalHits": -4
       },
       "awayData": {
@@ -3135,7 +3135,7 @@
       "gameweek": 25,
       "home": "Man Utd",
       "away": "Spurs",
-      "homeScore": 4,
+      "homeScore": 11,
       "awayScore": -4,
       "homeData": {
         "players": [
@@ -3161,8 +3161,8 @@
           },
           {
             "name": "Ibrahim",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 7,
+            "originalPoints": 7,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3180,8 +3180,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 4,
-        "pointsBeforeHits": 4,
+        "totalPoints": 11,
+        "pointsBeforeHits": 11,
         "totalHits": 0
       },
       "awayData": {
@@ -3337,7 +3337,7 @@
       "gameweek": 25,
       "home": "Bournemouth",
       "away": "Aston Villa",
-      "homeScore": 0,
+      "homeScore": -4,
       "awayScore": 0,
       "homeData": {
         "players": [
@@ -3378,13 +3378,13 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -3742,7 +3742,7 @@
       "home": "Newcastle",
       "away": "Brentford",
       "homeScore": 4,
-      "awayScore": 4,
+      "awayScore": 0,
       "homeData": {
         "players": [
           {
@@ -3829,13 +3829,13 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           }
         ],
-        "totalPoints": 4,
+        "totalPoints": 0,
         "pointsBeforeHits": 4,
-        "totalHits": 0
+        "totalHits": -4
       }
     },
     {
@@ -3843,7 +3843,7 @@
       "home": "Brighton",
       "away": "Crystal Palace",
       "homeScore": 2,
-      "awayScore": 3,
+      "awayScore": -1,
       "homeData": {
         "players": [
           {
@@ -3910,7 +3910,7 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -3934,9 +3934,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 3,
+        "totalPoints": -1,
         "pointsBeforeHits": 7,
-        "totalHits": -4
+        "totalHits": -8
       }
     },
     {
@@ -3944,7 +3944,7 @@
       "home": "Liverpool",
       "away": "Man City",
       "homeScore": -4,
-      "awayScore": 7,
+      "awayScore": 3,
       "homeData": {
         "players": [
           {
@@ -4011,7 +4011,7 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": true
           },
           {
@@ -4035,9 +4035,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 7,
+        "totalPoints": 3,
         "pointsBeforeHits": 7,
-        "totalHits": 0
+        "totalHits": -4
       }
     }
   ],
@@ -4087,7 +4087,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-07T17:15:42.923Z",
+  "lastUpdate": "2026-02-07T17:21:00.869Z",
   "lastCalculatedGW": 25,
   "version": "2.1"
 }
