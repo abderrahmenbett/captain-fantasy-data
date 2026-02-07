@@ -3035,7 +3035,7 @@
       "home": "Leeds",
       "away": "Nott'm Forest",
       "homeScore": 22,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeData": {
         "players": [
           {
@@ -3107,8 +3107,8 @@
           },
           {
             "name": "Hamza",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 1,
+            "originalPoints": 1,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3126,8 +3126,8 @@
             "isCaptain": true
           }
         ],
-        "totalPoints": 0,
-        "pointsBeforeHits": 0,
+        "totalPoints": 1,
+        "pointsBeforeHits": 1,
         "totalHits": 0
       }
     },
@@ -3337,7 +3337,7 @@
       "gameweek": 25,
       "home": "Bournemouth",
       "away": "Aston Villa",
-      "homeScore": 0,
+      "homeScore": -4,
       "awayScore": 0,
       "homeData": {
         "players": [
@@ -3378,13 +3378,13 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -3641,7 +3641,7 @@
       "home": "Wolves",
       "away": "Chelsea",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeData": {
         "players": [
           {
@@ -3703,8 +3703,8 @@
           },
           {
             "name": "Sloom",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 2,
+            "originalPoints": 2,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3732,8 +3732,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
-        "pointsBeforeHits": 0,
+        "totalPoints": 2,
+        "pointsBeforeHits": 2,
         "totalHits": 0
       }
     },
@@ -3742,7 +3742,7 @@
       "home": "Newcastle",
       "away": "Brentford",
       "homeScore": 4,
-      "awayScore": -4,
+      "awayScore": 0,
       "homeData": {
         "players": [
           {
@@ -3804,9 +3804,9 @@
           },
           {
             "name": "Saad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
+            "points": 4,
+            "originalPoints": 2,
+            "captainBonus": 2,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3833,8 +3833,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": -4,
-        "pointsBeforeHits": 0,
+        "totalPoints": 0,
+        "pointsBeforeHits": 4,
         "totalHits": -4
       }
     },
@@ -3944,7 +3944,7 @@
       "home": "Liverpool",
       "away": "Man City",
       "homeScore": -4,
-      "awayScore": 1,
+      "awayScore": 3,
       "homeData": {
         "players": [
           {
@@ -4016,8 +4016,8 @@
           },
           {
             "name": "Helaly",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 2,
+            "originalPoints": 2,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4035,8 +4035,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 1,
-        "pointsBeforeHits": 5,
+        "totalPoints": 3,
+        "pointsBeforeHits": 7,
         "totalHits": -4
       }
     }
@@ -4087,7 +4087,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-07T12:35:23.952Z",
+  "lastUpdate": "2026-02-07T12:40:21.333Z",
   "lastCalculatedGW": 25,
   "version": "2.1"
 }
