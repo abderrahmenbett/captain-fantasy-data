@@ -3843,7 +3843,7 @@
       "home": "Brighton",
       "away": "Crystal Palace",
       "homeScore": 2,
-      "awayScore": 3,
+      "awayScore": -1,
       "homeData": {
         "players": [
           {
@@ -3920,7 +3920,7 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -3934,17 +3934,17 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 3,
+        "totalPoints": -1,
         "pointsBeforeHits": 7,
-        "totalHits": -4
+        "totalHits": -8
       }
     },
     {
       "gameweek": 25,
       "home": "Liverpool",
       "away": "Man City",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": -4,
+      "awayScore": 3,
       "homeData": {
         "players": [
           {
@@ -3964,7 +3964,7 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -3988,9 +3988,9 @@
             "isCaptain": true
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -4026,8 +4026,8 @@
           },
           {
             "name": "Goatmessi",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 2,
+            "originalPoints": 2,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4035,8 +4035,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 1,
-        "pointsBeforeHits": 5,
+        "totalPoints": 3,
+        "pointsBeforeHits": 7,
         "totalHits": -4
       }
     }
@@ -4087,7 +4087,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-07T18:43:01.689Z",
+  "lastUpdate": "2026-02-07T18:45:11.624Z",
   "lastCalculatedGW": 25,
   "version": "2.2"
 }
