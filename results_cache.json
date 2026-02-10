@@ -4145,7 +4145,7 @@
       "gameweek": 26,
       "home": "Everton",
       "away": "Bournemouth",
-      "homeScore": 0,
+      "homeScore": -4,
       "awayScore": -12,
       "homeData": {
         "players": [
@@ -4186,13 +4186,13 @@
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -4276,7 +4276,7 @@
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
+            "tc": 1,
             "hits": 0,
             "isCaptain": false
           },
@@ -4347,7 +4347,7 @@
       "gameweek": 26,
       "home": "West Ham",
       "away": "Man Utd",
-      "homeScore": 0,
+      "homeScore": -4,
       "awayScore": -4,
       "homeData": {
         "players": [
@@ -4357,8 +4357,8 @@
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
-            "hits": 0,
+            "tc": 1,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -4392,9 +4392,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -4448,7 +4448,7 @@
       "gameweek": 26,
       "home": "Aston Villa",
       "away": "Brighton",
-      "homeScore": 0,
+      "homeScore": -4,
       "awayScore": 0,
       "homeData": {
         "players": [
@@ -4488,14 +4488,14 @@
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
-            "hits": 0,
+            "tc": 1,
+            "hits": -4,
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -4781,7 +4781,7 @@
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
+            "tc": 1,
             "hits": 0,
             "isCaptain": false
           },
@@ -5055,7 +5055,7 @@
       "home": "Wolves",
       "away": "Arsenal",
       "homeScore": -4,
-      "awayScore": 0,
+      "awayScore": -4,
       "homeData": {
         "players": [
           {
@@ -5131,8 +5131,8 @@
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
-            "hits": 0,
+            "tc": 1,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -5146,9 +5146,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
+        "totalPoints": -4,
         "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalHits": -4
       }
     }
   ],
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-10T18:58:03.317Z",
+  "lastUpdate": "2026-02-10T19:09:26.352Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
