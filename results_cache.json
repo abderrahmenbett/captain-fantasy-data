@@ -5055,7 +5055,7 @@
       "home": "Wolves",
       "away": "Arsenal",
       "homeScore": 61,
-      "awayScore": 44,
+      "awayScore": 74,
       "homeData": {
         "players": [
           {
@@ -5127,18 +5127,18 @@
           },
           {
             "name": "Al Kondos",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 20,
+            "originalPoints": 20,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
-            "hits": 0,
+            "tc": 1,
+            "hits": -4,
             "isCaptain": false
           },
           {
             "name": "Abdullatif",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 14,
+            "originalPoints": 14,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5146,9 +5146,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 44,
-        "pointsBeforeHits": 44,
-        "totalHits": 0
+        "totalPoints": 74,
+        "pointsBeforeHits": 78,
+        "totalHits": -4
       }
     }
   ],
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-11T00:47:53.593Z",
+  "lastUpdate": "2026-02-11T00:58:24.924Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
