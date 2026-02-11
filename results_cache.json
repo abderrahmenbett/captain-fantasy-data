@@ -4044,8 +4044,8 @@
       "gameweek": 26,
       "home": "Chelsea",
       "away": "Leeds",
-      "homeScore": 131,
-      "awayScore": 132,
+      "homeScore": 68,
+      "awayScore": 80,
       "homeData": {
         "players": [
           {
@@ -4060,8 +4060,8 @@
           },
           {
             "name": "Sloom",
-            "points": 35,
-            "originalPoints": 35,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4080,8 +4080,8 @@
           },
           {
             "name": "Mosab",
-            "points": 28,
-            "originalPoints": 28,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4089,8 +4089,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 131,
-        "pointsBeforeHits": 131,
+        "totalPoints": 68,
+        "pointsBeforeHits": 68,
         "totalHits": 0
       },
       "awayData": {
@@ -4107,11 +4107,11 @@
           },
           {
             "name": "Sebahi",
-            "points": 22,
-            "originalPoints": 22,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4127,26 +4127,26 @@
           },
           {
             "name": "Van",
-            "points": 38,
-            "originalPoints": 38,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -8,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 132,
-        "pointsBeforeHits": 140,
-        "totalHits": -8
+        "totalPoints": 80,
+        "pointsBeforeHits": 80,
+        "totalHits": 0
       }
     },
     {
       "gameweek": 26,
       "home": "Everton",
       "away": "Bournemouth",
-      "homeScore": 94,
-      "awayScore": 128,
+      "homeScore": 52,
+      "awayScore": 85,
       "homeData": {
         "players": [
           {
@@ -4161,8 +4161,8 @@
           },
           {
             "name": "Elra3y",
-            "points": 25,
-            "originalPoints": 25,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4181,18 +4181,18 @@
           },
           {
             "name": "Galal",
-            "points": 21,
-            "originalPoints": 21,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 94,
-        "pointsBeforeHits": 98,
-        "totalHits": -4
+        "totalPoints": 52,
+        "pointsBeforeHits": 52,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -4218,11 +4218,11 @@
           },
           {
             "name": "Turki",
-            "points": 43,
-            "originalPoints": 43,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4237,8 +4237,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 128,
-        "pointsBeforeHits": 140,
+        "totalPoints": 85,
+        "pointsBeforeHits": 97,
         "totalHits": -12
       }
     },
@@ -4246,28 +4246,28 @@
       "gameweek": 26,
       "home": "Spurs",
       "away": "Newcastle",
-      "homeScore": 114,
-      "awayScore": 135,
+      "homeScore": 32,
+      "awayScore": 111,
       "homeData": {
         "players": [
           {
             "name": "Jamal",
-            "points": 35,
-            "originalPoints": 35,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Abdelwahid",
-            "points": 19,
-            "originalPoints": 19,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -4282,18 +4282,18 @@
           },
           {
             "name": "Benzema",
-            "points": 36,
-            "originalPoints": 36,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 114,
-        "pointsBeforeHits": 122,
-        "totalHits": -8
+        "totalPoints": 32,
+        "pointsBeforeHits": 32,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -4309,11 +4309,11 @@
           },
           {
             "name": "Hamed",
-            "points": 24,
-            "originalPoints": 24,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4338,8 +4338,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 135,
-        "pointsBeforeHits": 143,
+        "totalPoints": 111,
+        "pointsBeforeHits": 119,
         "totalHits": -8
       }
     },
@@ -4347,7 +4347,7 @@
       "gameweek": 26,
       "home": "West Ham",
       "away": "Man Utd",
-      "homeScore": 130,
+      "homeScore": 104,
       "awayScore": 157,
       "homeData": {
         "players": [
@@ -4383,17 +4383,17 @@
           },
           {
             "name": "Zero",
-            "points": 26,
-            "originalPoints": 26,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 130,
-        "pointsBeforeHits": 134,
+        "totalPoints": 104,
+        "pointsBeforeHits": 108,
         "totalHits": -4
       },
       "awayData": {
@@ -4448,36 +4448,36 @@
       "gameweek": 26,
       "home": "Aston Villa",
       "away": "Brighton",
-      "homeScore": 124,
-      "awayScore": 130,
+      "homeScore": 18,
+      "awayScore": 106,
       "homeData": {
         "players": [
           {
             "name": "Mr Tactics",
-            "points": 29,
-            "originalPoints": 29,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Omar FPL",
-            "points": 29,
-            "originalPoints": 29,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Fplabudllah",
-            "points": 48,
-            "originalPoints": 48,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
-            "bb": 1,
+            "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false
@@ -4493,16 +4493,16 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 124,
-        "pointsBeforeHits": 128,
+        "totalPoints": 18,
+        "pointsBeforeHits": 22,
         "totalHits": -4
       },
       "awayData": {
         "players": [
           {
             "name": "Imad",
-            "points": 24,
-            "originalPoints": 24,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4540,8 +4540,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 130,
-        "pointsBeforeHits": 130,
+        "totalPoints": 106,
+        "pointsBeforeHits": 106,
         "totalHits": 0
       }
     },
@@ -4549,8 +4549,8 @@
       "gameweek": 26,
       "home": "Man City",
       "away": "Fulham",
-      "homeScore": 101,
-      "awayScore": 141,
+      "homeScore": 51,
+      "awayScore": 80,
       "homeData": {
         "players": [
           {
@@ -4565,8 +4565,8 @@
           },
           {
             "name": "Waseem",
-            "points": 28,
-            "originalPoints": 28,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4575,11 +4575,11 @@
           },
           {
             "name": "Helaly",
-            "points": 22,
-            "originalPoints": 22,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4594,8 +4594,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 101,
-        "pointsBeforeHits": 101,
+        "totalPoints": 51,
+        "pointsBeforeHits": 51,
         "totalHits": 0
       },
       "awayData": {
@@ -4612,11 +4612,11 @@
           },
           {
             "name": "Zakaria",
-            "points": 25,
-            "originalPoints": 25,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4632,25 +4632,25 @@
           },
           {
             "name": "Amh",
-            "points": 40,
-            "originalPoints": 40,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 141,
-        "pointsBeforeHits": 145,
-        "totalHits": -4
+        "totalPoints": 80,
+        "pointsBeforeHits": 80,
+        "totalHits": 0
       }
     },
     {
       "gameweek": 26,
       "home": "Nott'm Forest",
       "away": "Wolves",
-      "homeScore": 120,
+      "homeScore": 88,
       "awayScore": 119,
       "homeData": {
         "players": [
@@ -4686,8 +4686,8 @@
           },
           {
             "name": "Azzurri",
-            "points": 32,
-            "originalPoints": 32,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4695,8 +4695,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 120,
-        "pointsBeforeHits": 120,
+        "totalPoints": 88,
+        "pointsBeforeHits": 88,
         "totalHits": 0
       },
       "awayData": {
@@ -4751,14 +4751,14 @@
       "gameweek": 26,
       "home": "Crystal Palace",
       "away": "Burnley",
-      "homeScore": 136,
+      "homeScore": 62,
       "awayScore": 58,
       "homeData": {
         "players": [
           {
             "name": "Dr_fpl",
-            "points": 39,
-            "originalPoints": 39,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4767,8 +4767,8 @@
           },
           {
             "name": "Fpl_pras",
-            "points": 35,
-            "originalPoints": 35,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4796,8 +4796,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 136,
-        "pointsBeforeHits": 136,
+        "totalPoints": 62,
+        "pointsBeforeHits": 62,
         "totalHits": 0
       },
       "awayData": {
@@ -4953,8 +4953,8 @@
       "gameweek": 26,
       "home": "Brentford",
       "away": "Arsenal",
-      "homeScore": 130,
-      "awayScore": 173,
+      "homeScore": 49,
+      "awayScore": 133,
       "homeData": {
         "players": [
           {
@@ -4969,8 +4969,8 @@
           },
           {
             "name": "Saad",
-            "points": 29,
-            "originalPoints": 29,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4979,8 +4979,8 @@
           },
           {
             "name": "Yassin",
-            "points": 52,
-            "originalPoints": 52,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4998,8 +4998,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 130,
-        "pointsBeforeHits": 130,
+        "totalPoints": 49,
+        "pointsBeforeHits": 49,
         "totalHits": 0
       },
       "awayData": {
@@ -5016,8 +5016,8 @@
           },
           {
             "name": "Amaar",
-            "points": 40,
-            "originalPoints": 40,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5045,8 +5045,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 173,
-        "pointsBeforeHits": 177,
+        "totalPoints": 133,
+        "pointsBeforeHits": 137,
         "totalHits": -4
       }
     },
@@ -5054,27 +5054,27 @@
       "gameweek": 26,
       "home": "Wolves",
       "away": "Arsenal",
-      "homeScore": 76,
-      "awayScore": 173,
+      "homeScore": 69,
+      "awayScore": 117,
       "homeData": {
         "players": [
           {
             "name": "Basel",
+            "points": 47,
+            "originalPoints": 47,
+            "captainBonus": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": -4,
+            "isCaptain": false
+          },
+          {
+            "name": "Block5",
             "points": 0,
             "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Block5",
-            "points": 23,
-            "originalPoints": 23,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 1,
             "hits": 0,
             "isCaptain": false
           },
@@ -5090,8 +5090,8 @@
           },
           {
             "name": "Almulhim",
-            "points": 27,
-            "originalPoints": 27,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5099,9 +5099,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 76,
-        "pointsBeforeHits": 76,
-        "totalHits": 0
+        "totalPoints": 69,
+        "pointsBeforeHits": 73,
+        "totalHits": -4
       },
       "awayData": {
         "players": [
@@ -5127,12 +5127,12 @@
           },
           {
             "name": "Al Kondos",
-            "points": 60,
-            "originalPoints": 60,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -5146,9 +5146,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 173,
-        "pointsBeforeHits": 177,
-        "totalHits": -4
+        "totalPoints": 117,
+        "pointsBeforeHits": 117,
+        "totalHits": 0
       }
     }
   ],
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-11T23:40:26.350Z",
+  "lastUpdate": "2026-02-11T23:48:19.573Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
