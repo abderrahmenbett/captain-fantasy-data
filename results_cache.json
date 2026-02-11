@@ -4752,7 +4752,7 @@
       "home": "Crystal Palace",
       "away": "Burnley",
       "homeScore": 136,
-      "awayScore": 94,
+      "awayScore": 58,
       "homeData": {
         "players": [
           {
@@ -4824,10 +4824,10 @@
           },
           {
             "name": "Kingdom",
-            "points": 36,
-            "originalPoints": 36,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
-            "bb": 1,
+            "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false
@@ -4843,8 +4843,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 94,
-        "pointsBeforeHits": 94,
+        "totalPoints": 58,
+        "pointsBeforeHits": 58,
         "totalHits": 0
       }
     },
@@ -4852,14 +4852,14 @@
       "gameweek": 26,
       "home": "Sunderland",
       "away": "Liverpool",
-      "homeScore": 113,
+      "homeScore": 84,
       "awayScore": 123,
       "homeData": {
         "players": [
           {
             "name": "Fantastico",
-            "points": 29,
-            "originalPoints": 29,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4897,8 +4897,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 113,
-        "pointsBeforeHits": 117,
+        "totalPoints": 84,
+        "pointsBeforeHits": 88,
         "totalHits": -4
       },
       "awayData": {
@@ -5054,18 +5054,18 @@
       "gameweek": 26,
       "home": "Wolves",
       "away": "Arsenal",
-      "homeScore": 119,
+      "homeScore": 76,
       "awayScore": 173,
       "homeData": {
         "players": [
           {
             "name": "Basel",
-            "points": 47,
-            "originalPoints": 47,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -5099,9 +5099,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 119,
-        "pointsBeforeHits": 123,
-        "totalHits": -4
+        "totalPoints": 76,
+        "pointsBeforeHits": 76,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-11T23:29:05.363Z",
+  "lastUpdate": "2026-02-11T23:40:26.350Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
