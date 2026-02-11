@@ -4247,7 +4247,7 @@
       "home": "Spurs",
       "away": "Newcastle",
       "homeScore": 72,
-      "awayScore": 53,
+      "awayScore": 89,
       "homeData": {
         "players": [
           {
@@ -4299,21 +4299,21 @@
         "players": [
           {
             "name": "Afesha",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 24,
+            "originalPoints": 24,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
             "name": "Hamed",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 16,
+            "originalPoints": 16,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
+            "tc": 1,
             "hits": 0,
             "isCaptain": false
           },
@@ -4338,17 +4338,17 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 53,
-        "pointsBeforeHits": 57,
-        "totalHits": -4
+        "totalPoints": 89,
+        "pointsBeforeHits": 97,
+        "totalHits": -8
       }
     },
     {
       "gameweek": 26,
       "home": "West Ham",
       "away": "Man Utd",
-      "homeScore": 27,
-      "awayScore": 56,
+      "homeScore": 52,
+      "awayScore": 61,
       "homeData": {
         "players": [
           {
@@ -4373,8 +4373,8 @@
           },
           {
             "name": "Saeed",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 25,
+            "originalPoints": 25,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4392,16 +4392,16 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 27,
-        "pointsBeforeHits": 31,
+        "totalPoints": 52,
+        "pointsBeforeHits": 56,
         "totalHits": -4
       },
       "awayData": {
         "players": [
           {
             "name": "Baher",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 5,
+            "originalPoints": 5,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4439,8 +4439,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 56,
-        "pointsBeforeHits": 60,
+        "totalPoints": 61,
+        "pointsBeforeHits": 65,
         "totalHits": -4
       }
     },
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-11T09:38:35.417Z",
+  "lastUpdate": "2026-02-11T09:48:12.995Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
