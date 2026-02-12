@@ -4246,7 +4246,7 @@
       "gameweek": 26,
       "home": "Spurs",
       "away": "Newcastle",
-      "homeScore": 85,
+      "homeScore": 117,
       "awayScore": 136,
       "homeData": {
         "players": [
@@ -4272,11 +4272,11 @@
           },
           {
             "name": "Ultras",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 32,
+            "originalPoints": 32,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
+            "tc": 1,
             "hits": 0,
             "isCaptain": false
           },
@@ -4291,8 +4291,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 85,
-        "pointsBeforeHits": 93,
+        "totalPoints": 117,
+        "pointsBeforeHits": 125,
         "totalHits": -8
       },
       "awayData": {
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-12T07:29:11.053Z",
+  "lastUpdate": "2026-02-12T07:38:55.146Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
