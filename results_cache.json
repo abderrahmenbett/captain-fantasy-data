@@ -4853,7 +4853,7 @@
       "home": "Sunderland",
       "away": "Liverpool",
       "homeScore": 124,
-      "awayScore": 134,
+      "awayScore": 104,
       "homeData": {
         "players": [
           {
@@ -4925,8 +4925,8 @@
           },
           {
             "name": "Ghanem",
-            "points": 30,
-            "originalPoints": 30,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4944,8 +4944,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 134,
-        "pointsBeforeHits": 138,
+        "totalPoints": 104,
+        "pointsBeforeHits": 108,
         "totalHits": -4
       }
     },
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-12T02:58:32.662Z",
+  "lastUpdate": "2026-02-12T03:08:43.006Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
