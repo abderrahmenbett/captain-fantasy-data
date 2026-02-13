@@ -4852,7 +4852,7 @@
       "gameweek": 26,
       "home": "Sunderland",
       "away": "Liverpool",
-      "homeScore": 165,
+      "homeScore": 123,
       "awayScore": 173,
       "homeData": {
         "players": [
@@ -4888,17 +4888,17 @@
           },
           {
             "name": "Bettaieb",
-            "points": 42,
-            "originalPoints": 42,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 165,
-        "pointsBeforeHits": 169,
+        "totalPoints": 123,
+        "pointsBeforeHits": 127,
         "totalHits": -4
       },
       "awayData": {
@@ -4954,7 +4954,7 @@
       "home": "Brentford",
       "away": "Arsenal",
       "homeScore": 177,
-      "awayScore": 225,
+      "awayScore": 152,
       "homeData": {
         "players": [
           {
@@ -5026,12 +5026,12 @@
           },
           {
             "name": "Al Kondos",
-            "points": 77,
-            "originalPoints": 77,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -5045,9 +5045,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 225,
-        "pointsBeforeHits": 229,
-        "totalHits": -4
+        "totalPoints": 152,
+        "pointsBeforeHits": 152,
+        "totalHits": 0
       }
     },
     {
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-13T03:08:44.456Z",
+  "lastUpdate": "2026-02-13T03:18:40.224Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
