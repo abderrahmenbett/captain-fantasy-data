@@ -5055,7 +5055,7 @@
       "home": "Wolves",
       "away": "Arsenal",
       "homeScore": 177,
-      "awayScore": 181,
+      "awayScore": 225,
       "homeData": {
         "players": [
           {
@@ -5107,8 +5107,8 @@
         "players": [
           {
             "name": "Klooz",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 44,
+            "originalPoints": 44,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5146,8 +5146,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 181,
-        "pointsBeforeHits": 185,
+        "totalPoints": 225,
+        "pointsBeforeHits": 229,
         "totalHits": -4
       }
     }
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-13T06:10:10.177Z",
+  "lastUpdate": "2026-02-13T06:19:34.567Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
