@@ -4045,7 +4045,7 @@
       "home": "Chelsea",
       "away": "Leeds",
       "homeScore": 194,
-      "awayScore": 196,
+      "awayScore": 71,
       "homeData": {
         "players": [
           {
@@ -4097,8 +4097,8 @@
         "players": [
           {
             "name": "Qusai",
-            "points": 85,
-            "originalPoints": 85,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4117,8 +4117,8 @@
           },
           {
             "name": "Mustafa",
-            "points": 40,
-            "originalPoints": 40,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4136,8 +4136,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 196,
-        "pointsBeforeHits": 204,
+        "totalPoints": 71,
+        "pointsBeforeHits": 79,
         "totalHits": -8
       }
     },
@@ -4449,7 +4449,7 @@
       "home": "Aston Villa",
       "away": "Brighton",
       "homeScore": 187,
-      "awayScore": 191,
+      "awayScore": 141,
       "homeData": {
         "players": [
           {
@@ -4521,8 +4521,8 @@
           },
           {
             "name": "Riad",
-            "points": 50,
-            "originalPoints": 50,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4540,8 +4540,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 191,
-        "pointsBeforeHits": 191,
+        "totalPoints": 141,
+        "pointsBeforeHits": 141,
         "totalHits": 0
       }
     },
@@ -4650,7 +4650,7 @@
       "gameweek": 26,
       "home": "Nott'm Forest",
       "away": "Wolves",
-      "homeScore": 159,
+      "homeScore": 125,
       "awayScore": 177,
       "homeData": {
         "players": [
@@ -4676,11 +4676,11 @@
           },
           {
             "name": "Hamza",
-            "points": 34,
-            "originalPoints": 34,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4695,8 +4695,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 159,
-        "pointsBeforeHits": 159,
+        "totalPoints": 125,
+        "pointsBeforeHits": 125,
         "totalHits": 0
       },
       "awayData": {
@@ -4954,7 +4954,7 @@
       "home": "Brentford",
       "away": "Arsenal",
       "homeScore": 177,
-      "awayScore": 225,
+      "awayScore": 181,
       "homeData": {
         "players": [
           {
@@ -5006,8 +5006,8 @@
         "players": [
           {
             "name": "Klooz",
-            "points": 44,
-            "originalPoints": 44,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5045,8 +5045,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 225,
-        "pointsBeforeHits": 229,
+        "totalPoints": 181,
+        "pointsBeforeHits": 185,
         "totalHits": -4
       }
     },
@@ -5055,7 +5055,7 @@
       "home": "Wolves",
       "away": "Arsenal",
       "homeScore": 177,
-      "awayScore": 225,
+      "awayScore": 152,
       "homeData": {
         "players": [
           {
@@ -5127,12 +5127,12 @@
           },
           {
             "name": "Al Kondos",
-            "points": 77,
-            "originalPoints": 77,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -5146,9 +5146,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 225,
-        "pointsBeforeHits": 229,
-        "totalHits": -4
+        "totalPoints": 152,
+        "pointsBeforeHits": 152,
+        "totalHits": 0
       }
     }
   ],
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-13T23:39:06.988Z",
+  "lastUpdate": "2026-02-13T23:49:15.963Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
