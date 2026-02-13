@@ -4348,7 +4348,7 @@
       "home": "West Ham",
       "away": "Man Utd",
       "homeScore": 189,
-      "awayScore": 140,
+      "awayScore": 205,
       "homeData": {
         "players": [
           {
@@ -4410,12 +4410,12 @@
           },
           {
             "name": "Amer",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 69,
+            "originalPoints": 69,
             "captainBonus": 0,
-            "bb": 0,
+            "bb": 1,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
@@ -4439,9 +4439,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 140,
-        "pointsBeforeHits": 140,
-        "totalHits": 0
+        "totalPoints": 205,
+        "pointsBeforeHits": 209,
+        "totalHits": -4
       }
     },
     {
@@ -4853,7 +4853,7 @@
       "home": "Sunderland",
       "away": "Liverpool",
       "homeScore": 165,
-      "awayScore": 122,
+      "awayScore": 173,
       "homeData": {
         "players": [
           {
@@ -4905,8 +4905,8 @@
         "players": [
           {
             "name": "Essam",
-            "points": 0,
-            "originalPoints": 0,
+            "points": 51,
+            "originalPoints": 51,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4944,8 +4944,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 122,
-        "pointsBeforeHits": 126,
+        "totalPoints": 173,
+        "pointsBeforeHits": 177,
         "totalHits": -4
       }
     },
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-13T13:29:24.194Z",
+  "lastUpdate": "2026-02-13T13:39:02.751Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
