@@ -4045,7 +4045,7 @@
       "home": "Chelsea",
       "away": "Leeds",
       "homeScore": 194,
-      "awayScore": 196,
+      "awayScore": 115,
       "homeData": {
         "players": [
           {
@@ -4117,8 +4117,8 @@
           },
           {
             "name": "Mustafa",
-            "points": 40,
-            "originalPoints": 40,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4127,18 +4127,18 @@
           },
           {
             "name": "Van",
-            "points": 49,
-            "originalPoints": 49,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -8,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 196,
-        "pointsBeforeHits": 204,
-        "totalHits": -8
+        "totalPoints": 115,
+        "pointsBeforeHits": 115,
+        "totalHits": 0
       }
     },
     {
@@ -4146,7 +4146,7 @@
       "home": "Everton",
       "away": "Bournemouth",
       "homeScore": 143,
-      "awayScore": 183,
+      "awayScore": 52,
       "homeData": {
         "players": [
           {
@@ -4198,31 +4198,31 @@
         "players": [
           {
             "name": "Top Master",
-            "points": 36,
-            "originalPoints": 36,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Az",
-            "points": 42,
-            "originalPoints": 42,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Turki",
-            "points": 61,
-            "originalPoints": 61,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4237,16 +4237,16 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 183,
-        "pointsBeforeHits": 195,
-        "totalHits": -12
+        "totalPoints": 52,
+        "pointsBeforeHits": 56,
+        "totalHits": -4
       }
     },
     {
       "gameweek": 26,
       "home": "Spurs",
       "away": "Newcastle",
-      "homeScore": 163,
+      "homeScore": 116,
       "awayScore": 183,
       "homeData": {
         "players": [
@@ -4272,11 +4272,11 @@
           },
           {
             "name": "Ultras",
-            "points": 47,
-            "originalPoints": 47,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4291,8 +4291,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 163,
-        "pointsBeforeHits": 171,
+        "totalPoints": 116,
+        "pointsBeforeHits": 124,
         "totalHits": -8
       },
       "awayData": {
@@ -4347,8 +4347,8 @@
       "gameweek": 26,
       "home": "West Ham",
       "away": "Man Utd",
-      "homeScore": 189,
-      "awayScore": 205,
+      "homeScore": 139,
+      "awayScore": 144,
       "homeData": {
         "players": [
           {
@@ -4363,8 +4363,8 @@
           },
           {
             "name": "Amory",
-            "points": 50,
-            "originalPoints": 50,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4392,8 +4392,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 189,
-        "pointsBeforeHits": 193,
+        "totalPoints": 139,
+        "pointsBeforeHits": 143,
         "totalHits": -4
       },
       "awayData": {
@@ -4430,8 +4430,8 @@
           },
           {
             "name": "Abdullah LFC",
-            "points": 61,
-            "originalPoints": 61,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4439,8 +4439,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 205,
-        "pointsBeforeHits": 209,
+        "totalPoints": 144,
+        "pointsBeforeHits": 148,
         "totalHits": -4
       }
     },
@@ -4448,7 +4448,7 @@
       "gameweek": 26,
       "home": "Aston Villa",
       "away": "Brighton",
-      "homeScore": 187,
+      "homeScore": 143,
       "awayScore": 191,
       "homeData": {
         "players": [
@@ -4464,11 +4464,11 @@
           },
           {
             "name": "Omar FPL",
-            "points": 44,
-            "originalPoints": 44,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -4493,8 +4493,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 187,
-        "pointsBeforeHits": 191,
+        "totalPoints": 143,
+        "pointsBeforeHits": 147,
         "totalHits": -4
       },
       "awayData": {
@@ -4650,7 +4650,7 @@
       "gameweek": 26,
       "home": "Nott'm Forest",
       "away": "Wolves",
-      "homeScore": 159,
+      "homeScore": 121,
       "awayScore": 177,
       "homeData": {
         "players": [
@@ -4686,8 +4686,8 @@
           },
           {
             "name": "Azzurri",
-            "points": 38,
-            "originalPoints": 38,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4695,8 +4695,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 159,
-        "pointsBeforeHits": 159,
+        "totalPoints": 121,
+        "pointsBeforeHits": 121,
         "totalHits": 0
       },
       "awayData": {
@@ -4852,8 +4852,8 @@
       "gameweek": 26,
       "home": "Sunderland",
       "away": "Liverpool",
-      "homeScore": 165,
-      "awayScore": 173,
+      "homeScore": 134,
+      "awayScore": 131,
       "homeData": {
         "players": [
           {
@@ -4868,12 +4868,12 @@
           },
           {
             "name": "King Kong",
-            "points": 35,
-            "originalPoints": 35,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           },
           {
@@ -4897,9 +4897,9 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 165,
-        "pointsBeforeHits": 169,
-        "totalHits": -4
+        "totalPoints": 134,
+        "pointsBeforeHits": 134,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -4925,8 +4925,8 @@
           },
           {
             "name": "Ghanem",
-            "points": 42,
-            "originalPoints": 42,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -4944,8 +4944,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 173,
-        "pointsBeforeHits": 177,
+        "totalPoints": 131,
+        "pointsBeforeHits": 135,
         "totalHits": -4
       }
     },
@@ -4954,7 +4954,7 @@
       "home": "Brentford",
       "away": "Arsenal",
       "homeScore": 177,
-      "awayScore": 225,
+      "awayScore": 91,
       "homeData": {
         "players": [
           {
@@ -5026,18 +5026,18 @@
           },
           {
             "name": "Al Kondos",
-            "points": 77,
-            "originalPoints": 77,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
-            "hits": -4,
+            "tc": 0,
+            "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Abdullatif",
-            "points": 61,
-            "originalPoints": 61,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5045,17 +5045,17 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 225,
-        "pointsBeforeHits": 229,
-        "totalHits": -4
+        "totalPoints": 91,
+        "pointsBeforeHits": 91,
+        "totalHits": 0
       }
     },
     {
       "gameweek": 26,
       "home": "Wolves",
       "away": "Arsenal",
-      "homeScore": 177,
-      "awayScore": 225,
+      "homeScore": 134,
+      "awayScore": 178,
       "homeData": {
         "players": [
           {
@@ -5070,11 +5070,11 @@
           },
           {
             "name": "Block5",
-            "points": 43,
-            "originalPoints": 43,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           },
@@ -5099,8 +5099,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 177,
-        "pointsBeforeHits": 181,
+        "totalPoints": 134,
+        "pointsBeforeHits": 138,
         "totalHits": -4
       },
       "awayData": {
@@ -5117,8 +5117,8 @@
           },
           {
             "name": "Amaar",
-            "points": 47,
-            "originalPoints": 47,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -5146,8 +5146,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 225,
-        "pointsBeforeHits": 229,
+        "totalPoints": 178,
+        "pointsBeforeHits": 182,
         "totalHits": -4
       }
     }
@@ -5198,7 +5198,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-14T10:39:12.396Z",
+  "lastUpdate": "2026-02-14T10:49:10.837Z",
   "lastCalculatedGW": 26,
   "version": "2.0"
 }
