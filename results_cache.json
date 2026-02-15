@@ -3040,6 +3040,7 @@
         "players": [
           {
             "name": "Abadi",
+            "fplId": 8051740,
             "points": 63,
             "originalPoints": 63,
             "captainBonus": 0,
@@ -3050,6 +3051,7 @@
           },
           {
             "name": "Sloom",
+            "fplId": 416767,
             "points": 54,
             "originalPoints": 54,
             "captainBonus": 0,
@@ -3060,6 +3062,7 @@
           },
           {
             "name": "Sultan",
+            "fplId": 4628180,
             "points": 36,
             "originalPoints": 36,
             "captainBonus": 0,
@@ -3070,6 +3073,7 @@
           },
           {
             "name": "Mosab",
+            "fplId": 1888,
             "points": 41,
             "originalPoints": 41,
             "captainBonus": 0,
@@ -3087,6 +3091,7 @@
         "players": [
           {
             "name": "Qusai",
+            "fplId": 2821,
             "points": 85,
             "originalPoints": 85,
             "captainBonus": 0,
@@ -3097,6 +3102,7 @@
           },
           {
             "name": "Sebahi",
+            "fplId": 416138,
             "points": 30,
             "originalPoints": 30,
             "captainBonus": 0,
@@ -3107,6 +3113,7 @@
           },
           {
             "name": "Mustafa",
+            "fplId": 936783,
             "points": 40,
             "originalPoints": 40,
             "captainBonus": 0,
@@ -3117,6 +3124,7 @@
           },
           {
             "name": "Van",
+            "fplId": 2295,
             "points": 49,
             "originalPoints": 49,
             "captainBonus": 0,
@@ -3141,6 +3149,7 @@
         "players": [
           {
             "name": "Bayrem",
+            "fplId": 11080,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -3151,6 +3160,7 @@
           },
           {
             "name": "Elra3y",
+            "fplId": 1887,
             "points": 36,
             "originalPoints": 36,
             "captainBonus": 0,
@@ -3161,6 +3171,7 @@
           },
           {
             "name": "Fpl Abdullah",
+            "fplId": 35118,
             "points": 42,
             "originalPoints": 42,
             "captainBonus": 0,
@@ -3171,6 +3182,7 @@
           },
           {
             "name": "Galal",
+            "fplId": 204902,
             "points": 26,
             "originalPoints": 26,
             "captainBonus": 0,
@@ -3188,6 +3200,7 @@
         "players": [
           {
             "name": "Top Master",
+            "fplId": 1924,
             "points": 36,
             "originalPoints": 36,
             "captainBonus": 0,
@@ -3198,6 +3211,7 @@
           },
           {
             "name": "Az",
+            "fplId": 2682883,
             "points": 42,
             "originalPoints": 42,
             "captainBonus": 0,
@@ -3208,6 +3222,7 @@
           },
           {
             "name": "Turki",
+            "fplId": 133251,
             "points": 61,
             "originalPoints": 61,
             "captainBonus": 0,
@@ -3218,6 +3233,7 @@
           },
           {
             "name": "AB",
+            "fplId": 14171,
             "points": 56,
             "originalPoints": 56,
             "captainBonus": 0,
@@ -3242,6 +3258,7 @@
         "players": [
           {
             "name": "Jamal",
+            "fplId": 44598,
             "points": 47,
             "originalPoints": 47,
             "captainBonus": 0,
@@ -3252,6 +3269,7 @@
           },
           {
             "name": "Abdelwahid",
+            "fplId": 129548,
             "points": 29,
             "originalPoints": 29,
             "captainBonus": 0,
@@ -3262,6 +3280,7 @@
           },
           {
             "name": "Ultras",
+            "fplId": 1163868,
             "points": 47,
             "originalPoints": 47,
             "captainBonus": 0,
@@ -3272,6 +3291,7 @@
           },
           {
             "name": "Benzema",
+            "fplId": 670218,
             "points": 48,
             "originalPoints": 48,
             "captainBonus": 0,
@@ -3289,6 +3309,7 @@
         "players": [
           {
             "name": "Afesha",
+            "fplId": 4623737,
             "points": 48,
             "originalPoints": 48,
             "captainBonus": 0,
@@ -3299,6 +3320,7 @@
           },
           {
             "name": "Hamed",
+            "fplId": 69844,
             "points": 37,
             "originalPoints": 37,
             "captainBonus": 0,
@@ -3309,6 +3331,7 @@
           },
           {
             "name": "Abodic",
+            "fplId": 908702,
             "points": 56,
             "originalPoints": 56,
             "captainBonus": 0,
@@ -3319,6 +3342,7 @@
           },
           {
             "name": "Bader",
+            "fplId": 93125,
             "points": 50,
             "originalPoints": 50,
             "captainBonus": 0,
@@ -3343,6 +3367,7 @@
         "players": [
           {
             "name": "Abdulkarim",
+            "fplId": 21592,
             "points": 33,
             "originalPoints": 33,
             "captainBonus": 0,
@@ -3353,6 +3378,7 @@
           },
           {
             "name": "Amory",
+            "fplId": 387190,
             "points": 50,
             "originalPoints": 50,
             "captainBonus": 0,
@@ -3363,6 +3389,7 @@
           },
           {
             "name": "Saeed",
+            "fplId": 339137,
             "points": 67,
             "originalPoints": 67,
             "captainBonus": 0,
@@ -3373,6 +3400,7 @@
           },
           {
             "name": "Zero",
+            "fplId": 12020,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -3390,6 +3418,7 @@
         "players": [
           {
             "name": "Baher",
+            "fplId": 193784,
             "points": 41,
             "originalPoints": 41,
             "captainBonus": 0,
@@ -3400,6 +3429,7 @@
           },
           {
             "name": "Amer",
+            "fplId": 86994,
             "points": 69,
             "originalPoints": 69,
             "captainBonus": 0,
@@ -3410,6 +3440,7 @@
           },
           {
             "name": "Ibrahim",
+            "fplId": 63325,
             "points": 38,
             "originalPoints": 38,
             "captainBonus": 0,
@@ -3420,6 +3451,7 @@
           },
           {
             "name": "Abdullah LFC",
+            "fplId": 10383,
             "points": 61,
             "originalPoints": 61,
             "captainBonus": 0,
@@ -3444,6 +3476,7 @@
         "players": [
           {
             "name": "Mr Tactics",
+            "fplId": 36641,
             "points": 47,
             "originalPoints": 47,
             "captainBonus": 0,
@@ -3454,6 +3487,7 @@
           },
           {
             "name": "Omar FPL",
+            "fplId": 7275,
             "points": 44,
             "originalPoints": 44,
             "captainBonus": 0,
@@ -3464,6 +3498,7 @@
           },
           {
             "name": "Fplabudllah",
+            "fplId": 3317,
             "points": 65,
             "originalPoints": 65,
             "captainBonus": 0,
@@ -3474,6 +3509,7 @@
           },
           {
             "name": "Bahjat",
+            "fplId": 3366,
             "points": 35,
             "originalPoints": 35,
             "captainBonus": 0,
@@ -3491,6 +3527,7 @@
         "players": [
           {
             "name": "Imad",
+            "fplId": 8010050,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3501,6 +3538,7 @@
           },
           {
             "name": "Farran",
+            "fplId": 1144100,
             "points": 67,
             "originalPoints": 67,
             "captainBonus": 0,
@@ -3511,6 +3549,7 @@
           },
           {
             "name": "Riad",
+            "fplId": 1032764,
             "points": 50,
             "originalPoints": 50,
             "captainBonus": 0,
@@ -3521,6 +3560,7 @@
           },
           {
             "name": "Fares",
+            "fplId": 5851276,
             "points": 35,
             "originalPoints": 35,
             "captainBonus": 0,
@@ -3545,6 +3585,7 @@
         "players": [
           {
             "name": "Ali Jaafar",
+            "fplId": 2919361,
             "points": 40,
             "originalPoints": 40,
             "captainBonus": 0,
@@ -3555,6 +3596,7 @@
           },
           {
             "name": "Waseem",
+            "fplId": 70356,
             "points": 40,
             "originalPoints": 40,
             "captainBonus": 0,
@@ -3565,6 +3607,7 @@
           },
           {
             "name": "Helaly",
+            "fplId": 849659,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3575,6 +3618,7 @@
           },
           {
             "name": "Goatmessi",
+            "fplId": 6281,
             "points": 41,
             "originalPoints": 41,
             "captainBonus": 0,
@@ -3592,6 +3636,7 @@
         "players": [
           {
             "name": "Yaser",
+            "fplId": 535209,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3602,6 +3647,7 @@
           },
           {
             "name": "Zakaria",
+            "fplId": 5112,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -3612,6 +3658,7 @@
           },
           {
             "name": "Meco",
+            "fplId": 3103,
             "points": 59,
             "originalPoints": 59,
             "captainBonus": 0,
@@ -3622,6 +3669,7 @@
           },
           {
             "name": "Amh",
+            "fplId": 46469,
             "points": 53,
             "originalPoints": 53,
             "captainBonus": 0,
@@ -3646,6 +3694,7 @@
         "players": [
           {
             "name": "Sami",
+            "fplId": 2877963,
             "points": 50,
             "originalPoints": 50,
             "captainBonus": 0,
@@ -3656,6 +3705,7 @@
           },
           {
             "name": "Youssef",
+            "fplId": 519,
             "points": 37,
             "originalPoints": 37,
             "captainBonus": 0,
@@ -3666,6 +3716,7 @@
           },
           {
             "name": "Hamza",
+            "fplId": 1884,
             "points": 34,
             "originalPoints": 34,
             "captainBonus": 0,
@@ -3676,6 +3727,7 @@
           },
           {
             "name": "Azzurri",
+            "fplId": 15093,
             "points": 38,
             "originalPoints": 38,
             "captainBonus": 0,
@@ -3693,6 +3745,7 @@
         "players": [
           {
             "name": "Basel",
+            "fplId": 408808,
             "points": 54,
             "originalPoints": 54,
             "captainBonus": 0,
@@ -3703,6 +3756,7 @@
           },
           {
             "name": "Block5",
+            "fplId": 511583,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -3713,6 +3767,7 @@
           },
           {
             "name": "AboNora",
+            "fplId": 1915832,
             "points": 45,
             "originalPoints": 45,
             "captainBonus": 0,
@@ -3723,6 +3778,7 @@
           },
           {
             "name": "Almulhim",
+            "fplId": 225898,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3747,6 +3803,7 @@
         "players": [
           {
             "name": "Dr_fpl",
+            "fplId": 89630,
             "points": 57,
             "originalPoints": 57,
             "captainBonus": 0,
@@ -3757,6 +3814,7 @@
           },
           {
             "name": "Fpl_pras",
+            "fplId": 9658,
             "points": 59,
             "originalPoints": 59,
             "captainBonus": 0,
@@ -3767,6 +3825,7 @@
           },
           {
             "name": "Mo Amine",
+            "fplId": 1759,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -3777,6 +3836,7 @@
           },
           {
             "name": "Mo_is7",
+            "fplId": 2223190,
             "points": 42,
             "originalPoints": 42,
             "captainBonus": 0,
@@ -3794,6 +3854,7 @@
         "players": [
           {
             "name": "Yahya",
+            "fplId": 6447448,
             "points": 35,
             "originalPoints": 35,
             "captainBonus": 0,
@@ -3804,6 +3865,7 @@
           },
           {
             "name": "Ziad",
+            "fplId": 3631,
             "points": 32,
             "originalPoints": 32,
             "captainBonus": 0,
@@ -3814,6 +3876,7 @@
           },
           {
             "name": "Kingdom",
+            "fplId": 26576,
             "points": 48,
             "originalPoints": 48,
             "captainBonus": 0,
@@ -3824,6 +3887,7 @@
           },
           {
             "name": "Tour Team",
+            "fplId": 505648,
             "points": 34,
             "originalPoints": 34,
             "captainBonus": 0,
@@ -3842,14 +3906,15 @@
       "gameweek": 26,
       "home": "Sunderland",
       "away": "Liverpool",
-      "homeScore": 0,
+      "homeScore": 165,
       "awayScore": 173,
       "homeData": {
         "players": [
           {
             "name": "Fantastico",
-            "points": 0,
-            "originalPoints": 0,
+            "fplId": 761193,
+            "points": 42,
+            "originalPoints": 42,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3858,18 +3923,20 @@
           },
           {
             "name": "King Kong",
-            "points": 0,
-            "originalPoints": 0,
+            "fplId": 3194046,
+            "points": 35,
+            "originalPoints": 35,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": 0,
+            "hits": -4,
             "isCaptain": false
           },
           {
             "name": "Pablo",
-            "points": 0,
-            "originalPoints": 0,
+            "fplId": 3722693,
+            "points": 50,
+            "originalPoints": 50,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3878,23 +3945,25 @@
           },
           {
             "name": "Bettaieb",
-            "points": 0,
-            "originalPoints": 0,
+            "fplId": 66745,
+            "points": 42,
+            "originalPoints": 42,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 0,
+            "tc": 1,
             "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 0,
-        "pointsBeforeHits": 0,
-        "totalHits": 0
+        "totalPoints": 165,
+        "pointsBeforeHits": 169,
+        "totalHits": -4
       },
       "awayData": {
         "players": [
           {
             "name": "Essam",
+            "fplId": 3131250,
             "points": 51,
             "originalPoints": 51,
             "captainBonus": 0,
@@ -3905,6 +3974,7 @@
           },
           {
             "name": "Som3a",
+            "fplId": 128492,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3915,6 +3985,7 @@
           },
           {
             "name": "Ghanem",
+            "fplId": 28782,
             "points": 42,
             "originalPoints": 42,
             "captainBonus": 0,
@@ -3925,6 +3996,7 @@
           },
           {
             "name": "Abbas",
+            "fplId": 11473,
             "points": 45,
             "originalPoints": 45,
             "captainBonus": 0,
@@ -3949,6 +4021,7 @@
         "players": [
           {
             "name": "Abdalmajeed",
+            "fplId": 82070,
             "points": 38,
             "originalPoints": 38,
             "captainBonus": 0,
@@ -3959,6 +4032,7 @@
           },
           {
             "name": "Saad",
+            "fplId": 800938,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -3969,6 +4043,7 @@
           },
           {
             "name": "Yassin",
+            "fplId": 140899,
             "points": 64,
             "originalPoints": 64,
             "captainBonus": 0,
@@ -3979,6 +4054,7 @@
           },
           {
             "name": "Khalil",
+            "fplId": 32220,
             "points": 36,
             "originalPoints": 36,
             "captainBonus": 0,
@@ -3996,6 +4072,7 @@
         "players": [
           {
             "name": "Klooz",
+            "fplId": 402954,
             "points": 44,
             "originalPoints": 44,
             "captainBonus": 0,
@@ -4006,6 +4083,7 @@
           },
           {
             "name": "Amaar",
+            "fplId": 2628878,
             "points": 47,
             "originalPoints": 47,
             "captainBonus": 0,
@@ -4016,6 +4094,7 @@
           },
           {
             "name": "Al Kondos",
+            "fplId": 313223,
             "points": 77,
             "originalPoints": 77,
             "captainBonus": 0,
@@ -4026,6 +4105,7 @@
           },
           {
             "name": "Abdullatif",
+            "fplId": 864431,
             "points": 61,
             "originalPoints": 61,
             "captainBonus": 0,
@@ -4050,6 +4130,7 @@
         "players": [
           {
             "name": "Basel",
+            "fplId": 408808,
             "points": 54,
             "originalPoints": 54,
             "captainBonus": 0,
@@ -4060,6 +4141,7 @@
           },
           {
             "name": "Block5",
+            "fplId": 511583,
             "points": 43,
             "originalPoints": 43,
             "captainBonus": 0,
@@ -4070,6 +4152,7 @@
           },
           {
             "name": "AboNora",
+            "fplId": 1915832,
             "points": 45,
             "originalPoints": 45,
             "captainBonus": 0,
@@ -4080,6 +4163,7 @@
           },
           {
             "name": "Almulhim",
+            "fplId": 225898,
             "points": 39,
             "originalPoints": 39,
             "captainBonus": 0,
@@ -4097,6 +4181,7 @@
         "players": [
           {
             "name": "Klooz",
+            "fplId": 402954,
             "points": 44,
             "originalPoints": 44,
             "captainBonus": 0,
@@ -4107,6 +4192,7 @@
           },
           {
             "name": "Amaar",
+            "fplId": 2628878,
             "points": 47,
             "originalPoints": 47,
             "captainBonus": 0,
@@ -4117,6 +4203,7 @@
           },
           {
             "name": "Al Kondos",
+            "fplId": 313223,
             "points": 77,
             "originalPoints": 77,
             "captainBonus": 0,
@@ -4127,6 +4214,7 @@
           },
           {
             "name": "Abdullatif",
+            "fplId": 864431,
             "points": 61,
             "originalPoints": 61,
             "captainBonus": 0,
@@ -4188,8 +4276,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-15T09:41:40.292Z",
+  "lastUpdate": "2026-02-15T11:29:52.401Z",
   "lastCalculatedGW": 26,
-  "version": "2.5",
-  "source": "LiveFPL"
+  "version": "3.0"
 }
