@@ -3842,14 +3842,14 @@
       "gameweek": 26,
       "home": "Sunderland",
       "away": "Liverpool",
-      "homeScore": 165,
+      "homeScore": 0,
       "awayScore": 173,
       "homeData": {
         "players": [
           {
             "name": "Fantastico",
-            "points": 42,
-            "originalPoints": 42,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3858,18 +3858,18 @@
           },
           {
             "name": "King Kong",
-            "points": 35,
-            "originalPoints": 35,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false
           },
           {
             "name": "Pablo",
-            "points": 50,
-            "originalPoints": 50,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -3878,18 +3878,18 @@
           },
           {
             "name": "Bettaieb",
-            "points": 42,
-            "originalPoints": 42,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false
           }
         ],
-        "totalPoints": 165,
-        "pointsBeforeHits": 169,
-        "totalHits": -4
+        "totalPoints": 0,
+        "pointsBeforeHits": 0,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
@@ -4188,7 +4188,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-15T09:30:36.148Z",
+  "lastUpdate": "2026-02-15T09:41:40.292Z",
   "lastCalculatedGW": 26,
   "version": "2.5",
   "source": "LiveFPL"
