@@ -2429,7 +2429,7 @@
       "home": "Aston Villa",
       "away": "Brighton",
       "homeScore": 187,
-      "awayScore": 191,
+      "awayScore": 141,
       "homeData": {
         "players": [
           {
@@ -2501,8 +2501,8 @@
           },
           {
             "name": "Riad",
-            "points": 50,
-            "originalPoints": 50,
+            "points": 0,
+            "originalPoints": 0,
             "captainBonus": 0,
             "bb": 0,
             "tc": 0,
@@ -2520,8 +2520,8 @@
             "isCaptain": false
           }
         ],
-        "totalPoints": 191,
-        "pointsBeforeHits": 191,
+        "totalPoints": 141,
+        "pointsBeforeHits": 141,
         "totalHits": 0
       }
     },
@@ -3178,7 +3178,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-15T00:29:57.088Z",
+  "lastUpdate": "2026-02-15T00:39:48.334Z",
   "lastCalculatedGW": 26,
   "version": "2.5",
   "source": "LiveFPL"
