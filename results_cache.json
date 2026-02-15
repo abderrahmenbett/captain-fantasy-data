@@ -3043,7 +3043,6 @@
             "fplId": 8051740,
             "points": 63,
             "originalPoints": 63,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3054,7 +3053,6 @@
             "fplId": 416767,
             "points": 54,
             "originalPoints": 54,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3065,7 +3063,6 @@
             "fplId": 4628180,
             "points": 36,
             "originalPoints": 36,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3076,7 +3073,6 @@
             "fplId": 1888,
             "points": 41,
             "originalPoints": 41,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3084,7 +3080,6 @@
           }
         ],
         "totalPoints": 194,
-        "pointsBeforeHits": 194,
         "totalHits": 0
       },
       "awayData": {
@@ -3094,7 +3089,6 @@
             "fplId": 2821,
             "points": 85,
             "originalPoints": 85,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3105,7 +3099,6 @@
             "fplId": 416138,
             "points": 30,
             "originalPoints": 30,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3116,7 +3109,6 @@
             "fplId": 936783,
             "points": 40,
             "originalPoints": 40,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3127,7 +3119,6 @@
             "fplId": 2295,
             "points": 49,
             "originalPoints": 49,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -8,
@@ -3135,7 +3126,6 @@
           }
         ],
         "totalPoints": 196,
-        "pointsBeforeHits": 204,
         "totalHits": -8
       }
     },
@@ -3152,7 +3142,6 @@
             "fplId": 11080,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3163,7 +3152,6 @@
             "fplId": 1887,
             "points": 36,
             "originalPoints": 36,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3174,7 +3162,6 @@
             "fplId": 35118,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3185,7 +3172,6 @@
             "fplId": 204902,
             "points": 26,
             "originalPoints": 26,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3193,7 +3179,6 @@
           }
         ],
         "totalPoints": 143,
-        "pointsBeforeHits": 147,
         "totalHits": -4
       },
       "awayData": {
@@ -3203,7 +3188,6 @@
             "fplId": 1924,
             "points": 36,
             "originalPoints": 36,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3214,7 +3198,6 @@
             "fplId": 2682883,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3225,7 +3208,6 @@
             "fplId": 133251,
             "points": 61,
             "originalPoints": 61,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3236,7 +3218,6 @@
             "fplId": 14171,
             "points": 56,
             "originalPoints": 56,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3244,7 +3225,6 @@
           }
         ],
         "totalPoints": 183,
-        "pointsBeforeHits": 195,
         "totalHits": -12
       }
     },
@@ -3261,7 +3241,6 @@
             "fplId": 44598,
             "points": 47,
             "originalPoints": 47,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3272,7 +3251,6 @@
             "fplId": 129548,
             "points": 29,
             "originalPoints": 29,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3283,7 +3261,6 @@
             "fplId": 1163868,
             "points": 47,
             "originalPoints": 47,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3294,7 +3271,6 @@
             "fplId": 670218,
             "points": 48,
             "originalPoints": 48,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3302,7 +3278,6 @@
           }
         ],
         "totalPoints": 163,
-        "pointsBeforeHits": 171,
         "totalHits": -8
       },
       "awayData": {
@@ -3312,7 +3287,6 @@
             "fplId": 4623737,
             "points": 48,
             "originalPoints": 48,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3323,7 +3297,6 @@
             "fplId": 69844,
             "points": 37,
             "originalPoints": 37,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3334,7 +3307,6 @@
             "fplId": 908702,
             "points": 56,
             "originalPoints": 56,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3345,7 +3317,6 @@
             "fplId": 93125,
             "points": 50,
             "originalPoints": 50,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3353,7 +3324,6 @@
           }
         ],
         "totalPoints": 183,
-        "pointsBeforeHits": 191,
         "totalHits": -8
       }
     },
@@ -3370,7 +3340,6 @@
             "fplId": 21592,
             "points": 33,
             "originalPoints": 33,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3381,7 +3350,6 @@
             "fplId": 387190,
             "points": 50,
             "originalPoints": 50,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3392,7 +3360,6 @@
             "fplId": 339137,
             "points": 67,
             "originalPoints": 67,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3403,7 +3370,6 @@
             "fplId": 12020,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3411,7 +3377,6 @@
           }
         ],
         "totalPoints": 189,
-        "pointsBeforeHits": 193,
         "totalHits": -4
       },
       "awayData": {
@@ -3421,7 +3386,6 @@
             "fplId": 193784,
             "points": 41,
             "originalPoints": 41,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3432,7 +3396,6 @@
             "fplId": 86994,
             "points": 69,
             "originalPoints": 69,
-            "captainBonus": 0,
             "bb": 1,
             "tc": 0,
             "hits": -4,
@@ -3443,7 +3406,6 @@
             "fplId": 63325,
             "points": 38,
             "originalPoints": 38,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3454,7 +3416,6 @@
             "fplId": 10383,
             "points": 61,
             "originalPoints": 61,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3462,7 +3423,6 @@
           }
         ],
         "totalPoints": 205,
-        "pointsBeforeHits": 209,
         "totalHits": -4
       }
     },
@@ -3479,7 +3439,6 @@
             "fplId": 36641,
             "points": 47,
             "originalPoints": 47,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3490,7 +3449,6 @@
             "fplId": 7275,
             "points": 44,
             "originalPoints": 44,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3501,7 +3459,6 @@
             "fplId": 3317,
             "points": 65,
             "originalPoints": 65,
-            "captainBonus": 0,
             "bb": 1,
             "tc": 0,
             "hits": 0,
@@ -3512,7 +3469,6 @@
             "fplId": 3366,
             "points": 35,
             "originalPoints": 35,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -3520,7 +3476,6 @@
           }
         ],
         "totalPoints": 187,
-        "pointsBeforeHits": 191,
         "totalHits": -4
       },
       "awayData": {
@@ -3530,7 +3485,6 @@
             "fplId": 8010050,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3541,7 +3495,6 @@
             "fplId": 1144100,
             "points": 67,
             "originalPoints": 67,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3552,7 +3505,6 @@
             "fplId": 1032764,
             "points": 50,
             "originalPoints": 50,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3563,7 +3515,6 @@
             "fplId": 5851276,
             "points": 35,
             "originalPoints": 35,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3571,7 +3522,6 @@
           }
         ],
         "totalPoints": 191,
-        "pointsBeforeHits": 191,
         "totalHits": 0
       }
     },
@@ -3588,7 +3538,6 @@
             "fplId": 2919361,
             "points": 40,
             "originalPoints": 40,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3599,7 +3548,6 @@
             "fplId": 70356,
             "points": 40,
             "originalPoints": 40,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3610,7 +3558,6 @@
             "fplId": 849659,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3621,7 +3568,6 @@
             "fplId": 6281,
             "points": 41,
             "originalPoints": 41,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3629,7 +3575,6 @@
           }
         ],
         "totalPoints": 160,
-        "pointsBeforeHits": 160,
         "totalHits": 0
       },
       "awayData": {
@@ -3639,7 +3584,6 @@
             "fplId": 535209,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3650,7 +3594,6 @@
             "fplId": 5112,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3661,7 +3604,6 @@
             "fplId": 3103,
             "points": 59,
             "originalPoints": 59,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3672,7 +3614,6 @@
             "fplId": 46469,
             "points": 53,
             "originalPoints": 53,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3680,7 +3621,6 @@
           }
         ],
         "totalPoints": 190,
-        "pointsBeforeHits": 194,
         "totalHits": -4
       }
     },
@@ -3697,7 +3637,6 @@
             "fplId": 2877963,
             "points": 50,
             "originalPoints": 50,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3708,7 +3647,6 @@
             "fplId": 519,
             "points": 37,
             "originalPoints": 37,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3719,7 +3657,6 @@
             "fplId": 1884,
             "points": 34,
             "originalPoints": 34,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3730,7 +3667,6 @@
             "fplId": 15093,
             "points": 38,
             "originalPoints": 38,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3738,7 +3674,6 @@
           }
         ],
         "totalPoints": 159,
-        "pointsBeforeHits": 159,
         "totalHits": 0
       },
       "awayData": {
@@ -3748,7 +3683,6 @@
             "fplId": 408808,
             "points": 54,
             "originalPoints": 54,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3759,7 +3693,6 @@
             "fplId": 511583,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3770,7 +3703,6 @@
             "fplId": 1915832,
             "points": 45,
             "originalPoints": 45,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3781,7 +3713,6 @@
             "fplId": 225898,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3789,7 +3720,6 @@
           }
         ],
         "totalPoints": 177,
-        "pointsBeforeHits": 181,
         "totalHits": -4
       }
     },
@@ -3806,7 +3736,6 @@
             "fplId": 89630,
             "points": 57,
             "originalPoints": 57,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3817,7 +3746,6 @@
             "fplId": 9658,
             "points": 59,
             "originalPoints": 59,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3828,7 +3756,6 @@
             "fplId": 1759,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3839,7 +3766,6 @@
             "fplId": 2223190,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3847,7 +3773,6 @@
           }
         ],
         "totalPoints": 201,
-        "pointsBeforeHits": 201,
         "totalHits": 0
       },
       "awayData": {
@@ -3857,7 +3782,6 @@
             "fplId": 6447448,
             "points": 35,
             "originalPoints": 35,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3868,7 +3792,6 @@
             "fplId": 3631,
             "points": 32,
             "originalPoints": 32,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3879,7 +3802,6 @@
             "fplId": 26576,
             "points": 48,
             "originalPoints": 48,
-            "captainBonus": 0,
             "bb": 1,
             "tc": 0,
             "hits": 0,
@@ -3890,7 +3812,6 @@
             "fplId": 505648,
             "points": 34,
             "originalPoints": 34,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3898,7 +3819,6 @@
           }
         ],
         "totalPoints": 149,
-        "pointsBeforeHits": 149,
         "totalHits": 0
       }
     },
@@ -3915,7 +3835,6 @@
             "fplId": 761193,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3926,7 +3845,6 @@
             "fplId": 3194046,
             "points": 35,
             "originalPoints": 35,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3937,7 +3855,6 @@
             "fplId": 3722693,
             "points": 50,
             "originalPoints": 50,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3948,7 +3865,6 @@
             "fplId": 66745,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -3956,7 +3872,6 @@
           }
         ],
         "totalPoints": 165,
-        "pointsBeforeHits": 169,
         "totalHits": -4
       },
       "awayData": {
@@ -3966,7 +3881,6 @@
             "fplId": 3131250,
             "points": 51,
             "originalPoints": 51,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3977,7 +3891,6 @@
             "fplId": 128492,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -3988,7 +3901,6 @@
             "fplId": 28782,
             "points": 42,
             "originalPoints": 42,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3999,7 +3911,6 @@
             "fplId": 11473,
             "points": 45,
             "originalPoints": 45,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4007,7 +3918,6 @@
           }
         ],
         "totalPoints": 173,
-        "pointsBeforeHits": 177,
         "totalHits": -4
       }
     },
@@ -4024,7 +3934,6 @@
             "fplId": 82070,
             "points": 38,
             "originalPoints": 38,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -4035,7 +3944,6 @@
             "fplId": 800938,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4046,7 +3954,6 @@
             "fplId": 140899,
             "points": 64,
             "originalPoints": 64,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4057,7 +3964,6 @@
             "fplId": 32220,
             "points": 36,
             "originalPoints": 36,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4065,7 +3971,6 @@
           }
         ],
         "totalPoints": 177,
-        "pointsBeforeHits": 177,
         "totalHits": 0
       },
       "awayData": {
@@ -4075,7 +3980,6 @@
             "fplId": 402954,
             "points": 44,
             "originalPoints": 44,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4086,7 +3990,6 @@
             "fplId": 2628878,
             "points": 47,
             "originalPoints": 47,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4097,7 +4000,6 @@
             "fplId": 313223,
             "points": 77,
             "originalPoints": 77,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -4108,7 +4010,6 @@
             "fplId": 864431,
             "points": 61,
             "originalPoints": 61,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4116,7 +4017,6 @@
           }
         ],
         "totalPoints": 225,
-        "pointsBeforeHits": 229,
         "totalHits": -4
       }
     },
@@ -4133,7 +4033,6 @@
             "fplId": 408808,
             "points": 54,
             "originalPoints": 54,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": -4,
@@ -4144,7 +4043,6 @@
             "fplId": 511583,
             "points": 43,
             "originalPoints": 43,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -4155,7 +4053,6 @@
             "fplId": 1915832,
             "points": 45,
             "originalPoints": 45,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": 0,
@@ -4166,7 +4063,6 @@
             "fplId": 225898,
             "points": 39,
             "originalPoints": 39,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4174,7 +4070,6 @@
           }
         ],
         "totalPoints": 177,
-        "pointsBeforeHits": 181,
         "totalHits": -4
       },
       "awayData": {
@@ -4184,7 +4079,6 @@
             "fplId": 402954,
             "points": 44,
             "originalPoints": 44,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4195,7 +4089,6 @@
             "fplId": 2628878,
             "points": 47,
             "originalPoints": 47,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4206,7 +4099,6 @@
             "fplId": 313223,
             "points": 77,
             "originalPoints": 77,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 1,
             "hits": -4,
@@ -4217,7 +4109,6 @@
             "fplId": 864431,
             "points": 61,
             "originalPoints": 61,
-            "captainBonus": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4225,7 +4116,6 @@
           }
         ],
         "totalPoints": 225,
-        "pointsBeforeHits": 229,
         "totalHits": -4
       }
     }
@@ -4276,7 +4166,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-15T11:29:52.401Z",
+  "lastUpdate": "2026-02-15T11:49:46.903Z",
   "lastCalculatedGW": 26,
-  "version": "3.0"
+  "version": "5.0"
 }
