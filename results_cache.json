@@ -3047,7 +3047,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Sloom",
@@ -3058,7 +3058,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Sultan",
@@ -3069,7 +3069,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Mosab",
@@ -3080,7 +3080,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 257,
@@ -3097,7 +3097,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4
+            "yetToPlay": 0
           },
           {
             "name": "Sebahi",
@@ -3108,7 +3108,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Mustafa",
@@ -3119,7 +3119,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Van",
@@ -3130,7 +3130,7 @@
             "tc": 1,
             "hits": -8,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 245,
@@ -3154,7 +3154,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Elra3y",
@@ -3165,7 +3165,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Fpl Abdullah",
@@ -3176,7 +3176,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Galal",
@@ -3187,7 +3187,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 186,
@@ -3204,7 +3204,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Az",
@@ -3215,7 +3215,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Turki",
@@ -3226,7 +3226,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "AB",
@@ -3237,7 +3237,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 9
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 244,
@@ -3261,7 +3261,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 5
+            "yetToPlay": 0
           },
           {
             "name": "Abdelwahid",
@@ -3272,7 +3272,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 10
+            "yetToPlay": 0
           },
           {
             "name": "Ultras",
@@ -3283,7 +3283,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5
+            "yetToPlay": 0
           },
           {
             "name": "Benzema",
@@ -3294,7 +3294,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 210,
@@ -3311,7 +3311,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Hamed",
@@ -3322,7 +3322,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5
+            "yetToPlay": 0
           },
           {
             "name": "Abodic",
@@ -3333,7 +3333,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Bader",
@@ -3344,7 +3344,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 231,
@@ -3368,7 +3368,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Amory",
@@ -3379,7 +3379,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Saeed",
@@ -3390,7 +3390,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Zero",
@@ -3401,7 +3401,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 239,
@@ -3418,7 +3418,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Amer",
@@ -3429,7 +3429,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 10
+            "yetToPlay": 0
           },
           {
             "name": "Ibrahim",
@@ -3440,7 +3440,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9
+            "yetToPlay": 0
           },
           {
             "name": "Abdullah LFC",
@@ -3451,7 +3451,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 274,
@@ -3475,7 +3475,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Omar FPL",
@@ -3486,7 +3486,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Fplabudllah",
@@ -3497,7 +3497,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 10
+            "yetToPlay": 0
           },
           {
             "name": "Bahjat",
@@ -3508,7 +3508,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 231,
@@ -3525,7 +3525,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Farran",
@@ -3536,7 +3536,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Riad",
@@ -3547,7 +3547,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9
+            "yetToPlay": 0
           },
           {
             "name": "Fares",
@@ -3558,7 +3558,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 258,
@@ -3582,7 +3582,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Waseem",
@@ -3593,7 +3593,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 9
+            "yetToPlay": 0
           },
           {
             "name": "Helaly",
@@ -3604,7 +3604,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Goatmessi",
@@ -3615,7 +3615,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 200,
@@ -3632,7 +3632,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Zakaria",
@@ -3643,7 +3643,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Meco",
@@ -3654,7 +3654,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Amh",
@@ -3665,7 +3665,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 233,
@@ -3689,7 +3689,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Youssef",
@@ -3700,7 +3700,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Hamza",
@@ -3711,7 +3711,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Azzurri",
@@ -3722,7 +3722,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 197,
@@ -3739,7 +3739,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 5
+            "yetToPlay": 0
           },
           {
             "name": "Block5",
@@ -3750,7 +3750,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "AboNora",
@@ -3761,7 +3761,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Almulhim",
@@ -3772,7 +3772,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 231,
@@ -3796,7 +3796,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Fpl_pras",
@@ -3807,7 +3807,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Mo Amine",
@@ -3818,7 +3818,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Mo_is7",
@@ -3829,7 +3829,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 258,
@@ -3846,7 +3846,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Ziad",
@@ -3857,7 +3857,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Kingdom",
@@ -3868,7 +3868,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9
+            "yetToPlay": 0
           },
           {
             "name": "Tour Team",
@@ -3879,7 +3879,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 181,
@@ -3903,7 +3903,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "King Kong",
@@ -3914,7 +3914,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Pablo",
@@ -3925,7 +3925,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 9
+            "yetToPlay": 0
           },
           {
             "name": "Bettaieb",
@@ -3936,7 +3936,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 215,
@@ -3953,7 +3953,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           },
           {
             "name": "Som3a",
@@ -3964,7 +3964,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Ghanem",
@@ -3975,7 +3975,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Abbas",
@@ -3986,7 +3986,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 218,
@@ -4010,7 +4010,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Saad",
@@ -4021,7 +4021,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Yassin",
@@ -4032,7 +4032,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Khalil",
@@ -4043,7 +4043,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 216,
@@ -4060,7 +4060,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Amaar",
@@ -4071,7 +4071,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Al Kondos",
@@ -4082,7 +4082,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Abdullatif",
@@ -4093,7 +4093,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 286,
@@ -4117,7 +4117,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 5
+            "yetToPlay": 0
           },
           {
             "name": "Block5",
@@ -4128,7 +4128,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "AboNora",
@@ -4139,7 +4139,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Almulhim",
@@ -4150,7 +4150,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 231,
@@ -4167,7 +4167,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Amaar",
@@ -4178,7 +4178,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8
+            "yetToPlay": 0
           },
           {
             "name": "Al Kondos",
@@ -4189,7 +4189,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 7
+            "yetToPlay": 0
           },
           {
             "name": "Abdullatif",
@@ -4200,7 +4200,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5
+            "yetToPlay": 0
           }
         ],
         "totalPoints": 286,
@@ -4276,7 +4276,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-16T00:58:15.395Z",
+  "lastUpdate": "2026-02-16T00:59:13.756Z",
   "lastCalculatedGW": 26,
   "version": "7.0"
 }
