@@ -3997,7 +3997,7 @@
       "gameweek": 26,
       "home": "Brentford",
       "away": "Arsenal",
-      "homeScore": 216,
+      "homeScore": 138,
       "awayScore": 286,
       "homeData": {
         "players": [
@@ -4015,8 +4015,8 @@
           {
             "name": "Saad",
             "fplId": 800938,
-            "points": 78,
-            "originalPoints": 39,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4046,7 +4046,7 @@
             "yetToPlay": 0
           }
         ],
-        "totalPoints": 216,
+        "totalPoints": 138,
         "totalHits": 0
       },
       "awayData": {
@@ -4276,7 +4276,7 @@
       "Wolves": "Basel"
     }
   },
-  "lastUpdate": "2026-02-16T02:12:50.681Z",
+  "lastUpdate": "2026-02-16T02:14:53.765Z",
   "lastCalculatedGW": 26,
   "version": "7.0"
 }
