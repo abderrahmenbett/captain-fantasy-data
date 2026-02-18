@@ -3047,7 +3047,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3059,7 +3059,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3071,7 +3071,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3083,7 +3083,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3101,7 +3101,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3113,7 +3113,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3125,7 +3125,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3137,7 +3137,7 @@
             "tc": 1,
             "hits": -8,
             "isCaptain": true,
-            "yetToPlay": 7,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3162,7 +3162,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3174,7 +3174,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3186,7 +3186,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3198,7 +3198,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3216,7 +3216,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3228,7 +3228,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3240,7 +3240,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3252,7 +3252,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3277,7 +3277,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3289,7 +3289,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3301,7 +3301,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3313,7 +3313,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3331,7 +3331,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3343,7 +3343,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3355,7 +3355,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3367,7 +3367,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3392,7 +3392,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3404,7 +3404,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3416,7 +3416,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3428,7 +3428,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3446,7 +3446,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3458,7 +3458,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 7,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3470,7 +3470,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3482,7 +3482,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 3,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3507,7 +3507,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3519,7 +3519,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3531,7 +3531,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3543,7 +3543,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3561,7 +3561,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3573,7 +3573,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 1,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3585,7 +3585,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3597,7 +3597,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3622,7 +3622,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3634,7 +3634,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3646,7 +3646,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3658,7 +3658,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3676,7 +3676,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3688,7 +3688,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3700,7 +3700,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3712,7 +3712,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3737,7 +3737,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3749,7 +3749,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3761,7 +3761,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3773,7 +3773,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 1,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3791,7 +3791,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 3,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3803,7 +3803,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3815,7 +3815,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3827,7 +3827,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3852,7 +3852,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3864,7 +3864,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 2,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3876,7 +3876,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3888,7 +3888,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3906,7 +3906,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3918,7 +3918,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3930,7 +3930,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3942,7 +3942,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -3967,7 +3967,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3979,7 +3979,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -3991,7 +3991,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4003,7 +4003,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4021,7 +4021,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4033,7 +4033,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 3,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4045,7 +4045,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4057,7 +4057,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4082,7 +4082,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4094,7 +4094,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4106,7 +4106,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 2,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4118,7 +4118,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 3,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4136,7 +4136,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4148,7 +4148,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4160,7 +4160,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4172,7 +4172,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4197,7 +4197,7 @@
             "tc": 0,
             "hits": -4,
             "isCaptain": true,
-            "yetToPlay": 3,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4209,7 +4209,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4221,7 +4221,7 @@
             "tc": 1,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4233,7 +4233,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4251,7 +4251,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4263,7 +4263,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4275,7 +4275,7 @@
             "tc": 1,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -4287,7 +4287,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": true,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -4365,5 +4365,5 @@
     }
   },
   "lastCalculatedGW": 26,
-  "lastUpdate": "2026-02-18T13:13:40.158Z"
+  "lastUpdate": "2026-02-18T22:16:16.594Z"
 }
