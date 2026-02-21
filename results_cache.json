@@ -5687,7 +5687,7 @@
     },
     "Helaly": {
       "team": "Man City",
-      "benchPoints": 2,
+      "benchPoints": 3,
       "fplId": 849659
     },
     "Goatmessi": {
@@ -5872,7 +5872,7 @@
     },
     "Abdullatif": {
       "team": "Arsenal",
-      "benchPoints": 2,
+      "benchPoints": 1,
       "fplId": 864431
     },
     "Bayrem": {
@@ -5912,10 +5912,10 @@
     },
     "Abdullah LFC": {
       "team": "Man Utd",
-      "benchPoints": 2,
+      "benchPoints": 6,
       "fplId": 10383
     }
   },
   "lastCalculatedGW": 27,
-  "lastUpdate": "2026-02-21T15:47:06.370Z"
+  "lastUpdate": "2026-02-21T15:49:30.396Z"
 }
