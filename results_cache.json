@@ -1,3510 +1,20 @@
 {
   "results": [
     {
-      "gameweek": 25,
-      "home": "Leeds",
-      "away": "Nott'm Forest",
-      "homeScore": 274,
-      "awayScore": 79,
-      "homeData": {
-        "players": [
-          {
-            "name": "Qusai",
-            "points": 65,
-            "originalPoints": 65,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sebahi",
-            "points": 75,
-            "originalPoints": 75,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mustafa",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Van",
-            "points": 138,
-            "originalPoints": 69,
-            "captainBonus": 69,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 274,
-        "pointsBeforeHits": 278,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Sami",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Youssef",
-            "points": 79,
-            "originalPoints": 79,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Hamza",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Azzurri",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 79,
-        "pointsBeforeHits": 79,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Man Utd",
-      "away": "Spurs",
-      "homeScore": 208,
-      "awayScore": 293,
-      "homeData": {
-        "players": [
-          {
-            "name": "Baher",
-            "points": 74,
-            "originalPoints": 74,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amer",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Ibrahim",
-            "points": 62,
-            "originalPoints": 62,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullah LFC",
-            "points": 72,
-            "originalPoints": 72,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 208,
-        "pointsBeforeHits": 208,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Jamal",
-            "points": 148,
-            "originalPoints": 74,
-            "captainBonus": 74,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true
-          },
-          {
-            "name": "Abdelwahid",
-            "points": 75,
-            "originalPoints": 75,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ultras",
-            "points": 74,
-            "originalPoints": 74,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Benzema",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 293,
-        "pointsBeforeHits": 297,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Arsenal",
-      "away": "Sunderland",
-      "homeScore": 287,
-      "awayScore": 273,
-      "homeData": {
-        "players": [
-          {
-            "name": "Klooz",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amaar",
-            "points": 92,
-            "originalPoints": 92,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Al Kondos",
-            "points": 71,
-            "originalPoints": 71,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullatif",
-            "points": 124,
-            "originalPoints": 62,
-            "captainBonus": 62,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 287,
-        "pointsBeforeHits": 287,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Fantastico",
-            "points": 55,
-            "originalPoints": 55,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "King Kong",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Pablo",
-            "points": 140,
-            "originalPoints": 70,
-            "captainBonus": 70,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Bettaieb",
-            "points": 78,
-            "originalPoints": 78,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 273,
-        "pointsBeforeHits": 273,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Bournemouth",
-      "away": "Aston Villa",
-      "homeScore": 162,
-      "awayScore": 273,
-      "homeData": {
-        "players": [
-          {
-            "name": "Top Master",
-            "points": 102,
-            "originalPoints": 102,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Az",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Turki",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "AB",
-            "points": 64,
-            "originalPoints": 64,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 162,
-        "pointsBeforeHits": 166,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Mr Tactics",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Omar FPL",
-            "points": 130,
-            "originalPoints": 65,
-            "captainBonus": 65,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Fplabudllah",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bahjat",
-            "points": 74,
-            "originalPoints": 74,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 273,
-        "pointsBeforeHits": 273,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Burnley",
-      "away": "West Ham",
-      "homeScore": 378,
-      "awayScore": 69,
-      "homeData": {
-        "players": [
-          {
-            "name": "Yahya",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ziad",
-            "points": 154,
-            "originalPoints": 77,
-            "captainBonus": 77,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Kingdom",
-            "points": 86,
-            "originalPoints": 86,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Tour Team",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 378,
-        "pointsBeforeHits": 378,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdulkarim",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amory",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Saeed",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Zero",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 69,
-        "pointsBeforeHits": 69,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Fulham",
-      "away": "Everton",
-      "homeScore": 263,
-      "awayScore": 331,
-      "homeData": {
-        "players": [
-          {
-            "name": "Yaser",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Zakaria",
-            "points": 136,
-            "originalPoints": 68,
-            "captainBonus": 68,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Meco",
-            "points": 74,
-            "originalPoints": 74,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Amh",
-            "points": 57,
-            "originalPoints": 57,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 263,
-        "pointsBeforeHits": 267,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Bayrem",
-            "points": 160,
-            "originalPoints": 80,
-            "captainBonus": 80,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Elra3y",
-            "points": 70,
-            "originalPoints": 70,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fpl Abdullah",
-            "points": 72,
-            "originalPoints": 72,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Galal",
-            "points": 33,
-            "originalPoints": 33,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 331,
-        "pointsBeforeHits": 335,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Wolves",
-      "away": "Chelsea",
-      "homeScore": 227,
-      "awayScore": 164,
-      "homeData": {
-        "players": [
-          {
-            "name": "Basel",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Block5",
-            "points": 66,
-            "originalPoints": 66,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "AboNora",
-            "points": 73,
-            "originalPoints": 73,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Almulhim",
-            "points": 88,
-            "originalPoints": 88,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 227,
-        "pointsBeforeHits": 227,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abadi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Sloom",
-            "points": 85,
-            "originalPoints": 85,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sultan",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mosab",
-            "points": 79,
-            "originalPoints": 79,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 164,
-        "pointsBeforeHits": 164,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Newcastle",
-      "away": "Brentford",
-      "homeScore": 298,
-      "awayScore": 261,
-      "homeData": {
-        "players": [
-          {
-            "name": "Afesha",
-            "points": 142,
-            "originalPoints": 71,
-            "captainBonus": 71,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Hamed",
-            "points": 84,
-            "originalPoints": 84,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abodic",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bader",
-            "points": 72,
-            "originalPoints": 72,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 298,
-        "pointsBeforeHits": 298,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdalmajeed",
-            "points": 65,
-            "originalPoints": 65,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Saad",
-            "points": 158,
-            "originalPoints": 79,
-            "captainBonus": 79,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Yassin",
-            "points": 38,
-            "originalPoints": 38,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Khalil",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 261,
-        "pointsBeforeHits": 261,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Brighton",
-      "away": "Crystal Palace",
-      "homeScore": 191,
-      "awayScore": 216,
-      "homeData": {
-        "players": [
-          {
-            "name": "Imad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Farran",
-            "points": 124,
-            "originalPoints": 62,
-            "captainBonus": 62,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Riad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fares",
-            "points": 67,
-            "originalPoints": 67,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 191,
-        "pointsBeforeHits": 191,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Dr_fpl",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Fpl_pras",
-            "points": 54,
-            "originalPoints": 54,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo Amine",
-            "points": 65,
-            "originalPoints": 65,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo_is7",
-            "points": 105,
-            "originalPoints": 105,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 216,
-        "pointsBeforeHits": 224,
-        "totalHits": -8
-      }
-    },
-    {
-      "gameweek": 25,
-      "home": "Liverpool",
-      "away": "Man City",
-      "homeScore": 314,
-      "awayScore": 230,
-      "homeData": {
-        "players": [
-          {
-            "name": "Essam",
-            "points": 73,
-            "originalPoints": 73,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Som3a",
-            "points": 75,
-            "originalPoints": 75,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Ghanem",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abbas",
-            "points": 170,
-            "originalPoints": 85,
-            "captainBonus": 85,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 314,
-        "pointsBeforeHits": 318,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Ali Jaafar",
-            "points": 86,
-            "originalPoints": 86,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Waseem",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Helaly",
-            "points": 77,
-            "originalPoints": 77,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Goatmessi",
-            "points": 67,
-            "originalPoints": 67,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 230,
-        "pointsBeforeHits": 230,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Brighton",
-      "away": "Everton",
-      "homeScore": 226,
-      "awayScore": 192,
-      "homeData": {
-        "players": [
-          {
-            "name": "Imad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Farran",
-            "points": 90,
-            "originalPoints": 45,
-            "captainBonus": 45,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Riad",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fares",
-            "points": 67,
-            "originalPoints": 67,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 226,
-        "pointsBeforeHits": 226,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Bayrem",
-            "points": 136,
-            "originalPoints": 68,
-            "captainBonus": 68,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Elra3y",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fpl Abdullah",
-            "points": 60,
-            "originalPoints": 60,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Galal",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 192,
-        "pointsBeforeHits": 196,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Leeds",
-      "away": "Arsenal",
-      "homeScore": 200,
-      "awayScore": 227,
-      "homeData": {
-        "players": [
-          {
-            "name": "Qusai",
-            "points": 100,
-            "originalPoints": 50,
-            "captainBonus": 50,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Sebahi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mustafa",
-            "points": 59,
-            "originalPoints": 59,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Van",
-            "points": 57,
-            "originalPoints": 57,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -16,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 200,
-        "pointsBeforeHits": 216,
-        "totalHits": -16
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Klooz",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amaar",
-            "points": 63,
-            "originalPoints": 63,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Al Kondos",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullatif",
-            "points": 164,
-            "originalPoints": 82,
-            "captainBonus": 82,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 227,
-        "pointsBeforeHits": 227,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Wolves",
-      "away": "Bournemouth",
-      "homeScore": 50,
-      "awayScore": 181,
-      "homeData": {
-        "players": [
-          {
-            "name": "Basel",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Block5",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "AboNora",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Almulhim",
-            "points": 50,
-            "originalPoints": 50,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 50,
-        "pointsBeforeHits": 50,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Top Master",
-            "points": 57,
-            "originalPoints": 57,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Az",
-            "points": 77,
-            "originalPoints": 77,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Turki",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "AB",
-            "points": 51,
-            "originalPoints": 51,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 181,
-        "pointsBeforeHits": 185,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Chelsea",
-      "away": "West Ham",
-      "homeScore": 144,
-      "awayScore": 268,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abadi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Sloom",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sultan",
-            "points": 72,
-            "originalPoints": 72,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mosab",
-            "points": 72,
-            "originalPoints": 72,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 144,
-        "pointsBeforeHits": 144,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdulkarim",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amory",
-            "points": 132,
-            "originalPoints": 66,
-            "captainBonus": 66,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Saeed",
-            "points": 67,
-            "originalPoints": 67,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Zero",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 268,
-        "pointsBeforeHits": 268,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Liverpool",
-      "away": "Newcastle",
-      "homeScore": 309,
-      "awayScore": 76,
-      "homeData": {
-        "players": [
-          {
-            "name": "Essam",
-            "points": 54,
-            "originalPoints": 54,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Som3a",
-            "points": 65,
-            "originalPoints": 65,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Ghanem",
-            "points": 68,
-            "originalPoints": 68,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abbas",
-            "points": 130,
-            "originalPoints": 65,
-            "captainBonus": 65,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          }
-        ],
-        "totalPoints": 309,
-        "pointsBeforeHits": 317,
-        "totalHits": -8
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Afesha",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Hamed",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abodic",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bader",
-            "points": 76,
-            "originalPoints": 76,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 76,
-        "pointsBeforeHits": 76,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
+      "gameweek": 27,
       "home": "Aston Villa",
-      "away": "Brentford",
-      "homeScore": 294,
-      "awayScore": 108,
-      "homeData": {
-        "players": [
-          {
-            "name": "Mr Tactics",
-            "points": 61,
-            "originalPoints": 61,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Omar FPL",
-            "points": 156,
-            "originalPoints": 78,
-            "captainBonus": 78,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Fplabudllah",
-            "points": 77,
-            "originalPoints": 77,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bahjat",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 294,
-        "pointsBeforeHits": 294,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdalmajeed",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Saad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Yassin",
-            "points": 66,
-            "originalPoints": 66,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Khalil",
-            "points": 42,
-            "originalPoints": 42,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 108,
-        "pointsBeforeHits": 108,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Man Utd",
-      "away": "Fulham",
-      "homeScore": 167,
-      "awayScore": 197,
-      "homeData": {
-        "players": [
-          {
-            "name": "Baher",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amer",
-            "points": 120,
-            "originalPoints": 60,
-            "captainBonus": 60,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Ibrahim",
-            "points": 51,
-            "originalPoints": 51,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullah LFC",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 167,
-        "pointsBeforeHits": 171,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yaser",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Zakaria",
-            "points": 128,
-            "originalPoints": 64,
-            "captainBonus": 64,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Meco",
-            "points": 69,
-            "originalPoints": 69,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amh",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 197,
-        "pointsBeforeHits": 197,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Nott'm Forest",
-      "away": "Crystal Palace",
-      "homeScore": 167,
-      "awayScore": 192,
-      "homeData": {
-        "players": [
-          {
-            "name": "Sami",
-            "points": 43,
-            "originalPoints": 43,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Youssef",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Hamza",
-            "points": 124,
-            "originalPoints": 62,
-            "captainBonus": 62,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Azzurri",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 167,
-        "pointsBeforeHits": 167,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Dr_fpl",
-            "points": 132,
-            "originalPoints": 66,
-            "captainBonus": 66,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Fpl_pras",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo Amine",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo_is7",
-            "points": 60,
-            "originalPoints": 60,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 192,
-        "pointsBeforeHits": 192,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Spurs",
-      "away": "Man City",
-      "homeScore": 266,
-      "awayScore": 59,
-      "homeData": {
-        "players": [
-          {
-            "name": "Jamal",
-            "points": 140,
-            "originalPoints": 70,
-            "captainBonus": 70,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true
-          },
-          {
-            "name": "Abdelwahid",
-            "points": 66,
-            "originalPoints": 66,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ultras",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Benzema",
-            "points": 64,
-            "originalPoints": 64,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 266,
-        "pointsBeforeHits": 270,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Ali Jaafar",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Waseem",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Helaly",
-            "points": 59,
-            "originalPoints": 59,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Goatmessi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 59,
-        "pointsBeforeHits": 59,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 24,
-      "home": "Sunderland",
-      "away": "Burnley",
-      "homeScore": 140,
-      "awayScore": 134,
-      "homeData": {
-        "players": [
-          {
-            "name": "Fantastico",
-            "points": 140,
-            "originalPoints": 70,
-            "captainBonus": 70,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "King Kong",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Pablo",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bettaieb",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 140,
-        "pointsBeforeHits": 140,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yahya",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ziad",
-            "points": 134,
-            "originalPoints": 67,
-            "captainBonus": 67,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true
-          },
-          {
-            "name": "Kingdom",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Tour Team",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 134,
-        "pointsBeforeHits": 134,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Man Utd",
-      "away": "Man City",
-      "homeScore": 66,
-      "awayScore": 117,
-      "homeData": {
-        "players": [
-          {
-            "name": "Baher",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amer",
-            "points": 28,
-            "originalPoints": 28,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ibrahim",
-            "points": 38,
-            "originalPoints": 38,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullah LFC",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 66,
-        "pointsBeforeHits": 66,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Ali Jaafar",
-            "points": 50,
-            "originalPoints": 50,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Waseem",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Helaly",
-            "points": 34,
-            "originalPoints": 34,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Goatmessi",
-            "points": 41,
-            "originalPoints": 41,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 117,
-        "pointsBeforeHits": 125,
-        "totalHits": -8
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Chelsea",
-      "away": "Brentford",
-      "homeScore": 53,
-      "awayScore": 115,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abadi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sloom",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sultan",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mosab",
-            "points": 53,
-            "originalPoints": 53,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 53,
-        "pointsBeforeHits": 53,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdalmajeed",
-            "points": 38,
-            "originalPoints": 38,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Saad",
-            "points": 35,
-            "originalPoints": 35,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Yassin",
-            "points": 46,
-            "originalPoints": 46,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Khalil",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 115,
-        "pointsBeforeHits": 119,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Leeds",
-      "away": "Fulham",
-      "homeScore": 81,
-      "awayScore": 0,
-      "homeData": {
-        "players": [
-          {
-            "name": "Qusai",
-            "points": 30,
-            "originalPoints": 30,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Sebahi",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mustafa",
-            "points": 51,
-            "originalPoints": 51,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Van",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 81,
-        "pointsBeforeHits": 81,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yaser",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Zakaria",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Meco",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amh",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 0,
-        "pointsBeforeHits": 0,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Liverpool",
-      "away": "Burnley",
-      "homeScore": 116,
-      "awayScore": 128,
-      "homeData": {
-        "players": [
-          {
-            "name": "Essam",
-            "points": 40,
-            "originalPoints": 40,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Som3a",
-            "points": 36,
-            "originalPoints": 36,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ghanem",
-            "points": 40,
-            "originalPoints": 40,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abbas",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 116,
-        "pointsBeforeHits": 116,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yahya",
-            "points": 45,
-            "originalPoints": 45,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ziad",
-            "points": 37,
-            "originalPoints": 37,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Kingdom",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Tour Team",
-            "points": 46,
-            "originalPoints": 46,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 128,
-        "pointsBeforeHits": 128,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Spurs",
-      "away": "West Ham",
-      "homeScore": 53,
-      "awayScore": 35,
-      "homeData": {
-        "players": [
-          {
-            "name": "Jamal",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdelwahid",
-            "points": 53,
-            "originalPoints": 53,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Ultras",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Benzema",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 53,
-        "pointsBeforeHits": 53,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Abdulkarim",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amory",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Saeed",
-            "points": 39,
-            "originalPoints": 39,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Zero",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 35,
-        "pointsBeforeHits": 39,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Sunderland",
-      "away": "Crystal Palace",
-      "homeScore": 131,
-      "awayScore": 123,
-      "homeData": {
-        "players": [
-          {
-            "name": "Fantastico",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "King Kong",
-            "points": 35,
-            "originalPoints": 35,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Pablo",
-            "points": 49,
-            "originalPoints": 49,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bettaieb",
-            "points": 47,
-            "originalPoints": 47,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 131,
-        "pointsBeforeHits": 131,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Dr_fpl",
-            "points": 33,
-            "originalPoints": 33,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fpl_pras",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo Amine",
-            "points": 48,
-            "originalPoints": 48,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Mo_is7",
-            "points": 46,
-            "originalPoints": 46,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 123,
-        "pointsBeforeHits": 127,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Nott'm Forest",
-      "away": "Arsenal",
-      "homeScore": 145,
-      "awayScore": 69,
-      "homeData": {
-        "players": [
-          {
-            "name": "Sami",
-            "points": 51,
-            "originalPoints": 51,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Youssef",
-            "points": 46,
-            "originalPoints": 46,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Hamza",
-            "points": 48,
-            "originalPoints": 48,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Azzurri",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 145,
-        "pointsBeforeHits": 145,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Klooz",
-            "points": 46,
-            "originalPoints": 46,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Amaar",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Al Kondos",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abdullatif",
-            "points": 23,
-            "originalPoints": 23,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 69,
-        "pointsBeforeHits": 69,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Wolves",
-      "away": "Newcastle",
-      "homeScore": 66,
-      "awayScore": 91,
-      "homeData": {
-        "players": [
-          {
-            "name": "Basel",
-            "points": 66,
-            "originalPoints": 66,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Block5",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "AboNora",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Almulhim",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 66,
-        "pointsBeforeHits": 66,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Afesha",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Hamed",
-            "points": 54,
-            "originalPoints": 54,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Abodic",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bader",
-            "points": 37,
-            "originalPoints": 37,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 91,
-        "pointsBeforeHits": 91,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Aston Villa",
-      "away": "Everton",
-      "homeScore": 122,
-      "awayScore": 113,
-      "homeData": {
-        "players": [
-          {
-            "name": "Mr Tactics",
-            "points": 37,
-            "originalPoints": 37,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Omar FPL",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fplabudllah",
-            "points": 32,
-            "originalPoints": 32,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Bahjat",
-            "points": 53,
-            "originalPoints": 53,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 122,
-        "pointsBeforeHits": 122,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Bayrem",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Elra3y",
-            "points": 32,
-            "originalPoints": 32,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fpl Abdullah",
-            "points": 41,
-            "originalPoints": 41,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Galal",
-            "points": 44,
-            "originalPoints": 44,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 113,
-        "pointsBeforeHits": 117,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 22,
-      "home": "Brighton",
-      "away": "Bournemouth",
-      "homeScore": 43,
-      "awayScore": 119,
-      "homeData": {
-        "players": [
-          {
-            "name": "Imad",
-            "points": 43,
-            "originalPoints": 43,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Farran",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Riad",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Fares",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 43,
-        "pointsBeforeHits": 43,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Top Master",
-            "points": 57,
-            "originalPoints": 57,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "Az",
-            "points": 66,
-            "originalPoints": 66,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false
-          },
-          {
-            "name": "Turki",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          },
-          {
-            "name": "AB",
-            "points": 0,
-            "originalPoints": 0,
-            "captainBonus": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false
-          }
-        ],
-        "totalPoints": 119,
-        "pointsBeforeHits": 123,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Chelsea",
       "away": "Leeds",
-      "homeScore": 291,
-      "awayScore": 294,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abadi",
-            "fplId": 8051740,
-            "points": 158,
-            "originalPoints": 79,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Sloom",
-            "fplId": 416767,
-            "points": 67,
-            "originalPoints": 67,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Sultan",
-            "fplId": 4628180,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Mosab",
-            "fplId": 1888,
-            "points": 66,
-            "originalPoints": 66,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 291,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Qusai",
-            "fplId": 2821,
-            "points": 91,
-            "originalPoints": 91,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Sebahi",
-            "fplId": 416138,
-            "points": 41,
-            "originalPoints": 41,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Mustafa",
-            "fplId": 936783,
-            "points": 56,
-            "originalPoints": 56,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Van",
-            "fplId": 2295,
-            "points": 114,
-            "originalPoints": 57,
-            "bb": 0,
-            "tc": 1,
-            "hits": -8,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 294,
-        "totalHits": -8
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Everton",
-      "away": "Bournemouth",
-      "homeScore": 274,
-      "awayScore": 275,
-      "homeData": {
-        "players": [
-          {
-            "name": "Bayrem",
-            "fplId": 11080,
-            "points": 136,
-            "originalPoints": 68,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Elra3y",
-            "fplId": 1887,
-            "points": 42,
-            "originalPoints": 42,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Fpl Abdullah",
-            "fplId": 35118,
-            "points": 67,
-            "originalPoints": 67,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Galal",
-            "fplId": 204902,
-            "points": 33,
-            "originalPoints": 33,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 274,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Top Master",
-            "fplId": 1924,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Az",
-            "fplId": 2682883,
-            "points": 52,
-            "originalPoints": 52,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Turki",
-            "fplId": 133251,
-            "points": 168,
-            "originalPoints": 84,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "AB",
-            "fplId": 14171,
-            "points": 63,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 275,
-        "totalHits": -8
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Spurs",
-      "away": "Newcastle",
-      "homeScore": 267,
-      "awayScore": 303,
-      "homeData": {
-        "players": [
-          {
-            "name": "Jamal",
-            "fplId": 44598,
-            "points": 106,
-            "originalPoints": 53,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abdelwahid",
-            "fplId": 129548,
-            "points": 36,
-            "originalPoints": 36,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Ultras",
-            "fplId": 1163868,
-            "points": 70,
-            "originalPoints": 70,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Benzema",
-            "fplId": 670218,
-            "points": 63,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 267,
-        "totalHits": -8
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Afesha",
-            "fplId": 4623737,
-            "points": 126,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Hamed",
-            "fplId": 69844,
-            "points": 53,
-            "originalPoints": 53,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abodic",
-            "fplId": 908702,
-            "points": 63,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Bader",
-            "fplId": 93125,
-            "points": 69,
-            "originalPoints": 69,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 303,
-        "totalHits": -8
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "West Ham",
-      "away": "Man Utd",
-      "homeScore": 232,
-      "awayScore": 347,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abdulkarim",
-            "fplId": 21592,
-            "points": 40,
-            "originalPoints": 40,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Amory",
-            "fplId": 387190,
-            "points": 138,
-            "originalPoints": 69,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Saeed",
-            "fplId": 339137,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Zero",
-            "fplId": 12020,
-            "points": 58,
-            "originalPoints": 58,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 232,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Baher",
-            "fplId": 193784,
-            "points": 48,
-            "originalPoints": 48,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Amer",
-            "fplId": 86994,
-            "points": 168,
-            "originalPoints": 84,
-            "bb": 1,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Ibrahim",
-            "fplId": 63325,
-            "points": 59,
-            "originalPoints": 59,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abdullah LFC",
-            "fplId": 10383,
-            "points": 76,
-            "originalPoints": 76,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 347,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Aston Villa",
-      "away": "Brighton",
-      "homeScore": 335,
-      "awayScore": 273,
+      "homeScore": 124,
+      "awayScore": 151,
       "homeData": {
         "players": [
           {
             "name": "Mr Tactics",
             "fplId": 36641,
-            "points": 71,
-            "originalPoints": 71,
+            "points": 41,
+            "originalPoints": 41,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
@@ -3513,21 +23,21 @@
           {
             "name": "Omar FPL",
             "fplId": 7275,
-            "points": 134,
-            "originalPoints": 67,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
-            "isCaptain": true,
+            "isCaptain": false,
             "yetToPlay": 0,
             "livePlayers": 0
           },
           {
             "name": "Fplabudllah",
             "fplId": 3317,
-            "points": 87,
-            "originalPoints": 87,
-            "bb": 1,
+            "points": 39,
+            "originalPoints": 39,
+            "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
@@ -3537,353 +47,8 @@
           {
             "name": "Bahjat",
             "fplId": 3366,
-            "points": 47,
-            "originalPoints": 47,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 335,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Imad",
-            "fplId": 8010050,
-            "points": 60,
-            "originalPoints": 60,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Farran",
-            "fplId": 1144100,
-            "points": 136,
-            "originalPoints": 68,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Riad",
-            "fplId": 1032764,
-            "points": 77,
-            "originalPoints": 77,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Fares",
-            "fplId": 5851276,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 273,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Man City",
-      "away": "Fulham",
-      "homeScore": 267,
-      "awayScore": 236,
-      "homeData": {
-        "players": [
-          {
-            "name": "Ali Jaafar",
-            "fplId": 2919361,
-            "points": 67,
-            "originalPoints": 67,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Waseem",
-            "fplId": 70356,
-            "points": 140,
-            "originalPoints": 70,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Helaly",
-            "fplId": 849659,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Goatmessi",
-            "fplId": 6281,
-            "points": 60,
-            "originalPoints": 60,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 267,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yaser",
-            "fplId": 535209,
-            "points": 43,
-            "originalPoints": 43,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Zakaria",
-            "fplId": 5112,
-            "points": 124,
-            "originalPoints": 62,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Meco",
-            "fplId": 3103,
-            "points": 69,
-            "originalPoints": 69,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Amh",
-            "fplId": 46469,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 236,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Nott'm Forest",
-      "away": "Wolves",
-      "homeScore": 223,
-      "awayScore": 308,
-      "homeData": {
-        "players": [
-          {
-            "name": "Sami",
-            "fplId": 2877963,
-            "points": 61,
-            "originalPoints": 61,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Youssef",
-            "fplId": 519,
-            "points": 60,
-            "originalPoints": 60,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Hamza",
-            "fplId": 1884,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Azzurri",
-            "fplId": 15093,
-            "points": 102,
-            "originalPoints": 51,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 223,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Basel",
-            "fplId": 408808,
-            "points": 118,
-            "originalPoints": 59,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Block5",
-            "fplId": 511583,
-            "points": 66,
-            "originalPoints": 66,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "AboNora",
-            "fplId": 1915832,
-            "points": 68,
-            "originalPoints": 68,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Almulhim",
-            "fplId": 225898,
-            "points": 60,
-            "originalPoints": 60,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 308,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Crystal Palace",
-      "away": "Burnley",
-      "homeScore": 124,
-      "awayScore": 213,
-      "homeData": {
-        "players": [
-          {
-            "name": "Dr_fpl",
-            "fplId": 89630,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Fpl_pras",
-            "fplId": 9658,
-            "points": 72,
-            "originalPoints": 72,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Mo Amine",
-            "fplId": 1759,
-            "points": 52,
-            "originalPoints": 52,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Mo_is7",
-            "fplId": 2223190,
-            "points": 0,
-            "originalPoints": 0,
+            "points": 44,
+            "originalPoints": 44,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -3898,32 +63,20 @@
       "awayData": {
         "players": [
           {
-            "name": "Yahya",
-            "fplId": 6447448,
-            "points": 60,
-            "originalPoints": 60,
+            "name": "Qusai",
+            "fplId": 2821,
+            "points": 50,
+            "originalPoints": 50,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
             "livePlayers": 0
           },
           {
-            "name": "Ziad",
-            "fplId": 3631,
-            "points": 94,
-            "originalPoints": 47,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Kingdom",
-            "fplId": 26576,
+            "name": "Sebahi",
+            "fplId": 416138,
             "points": 0,
             "originalPoints": 0,
             "bb": 0,
@@ -3934,152 +87,49 @@
             "livePlayers": 0
           },
           {
-            "name": "Tour Team",
-            "fplId": 505648,
-            "points": 59,
-            "originalPoints": 59,
+            "name": "Mustafa",
+            "fplId": 936783,
+            "points": 54,
+            "originalPoints": 54,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Van",
+            "fplId": 2295,
+            "points": 47,
+            "originalPoints": 47,
+            "bb": 0,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
-        "totalPoints": 213,
+        "totalPoints": 151,
         "totalHits": 0
       }
     },
     {
-      "gameweek": 26,
-      "home": "Sunderland",
-      "away": "Liverpool",
-      "homeScore": 47,
-      "awayScore": 305,
-      "homeData": {
-        "players": [
-          {
-            "name": "Fantastico",
-            "fplId": 761193,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "King Kong",
-            "fplId": 3194046,
-            "points": 51,
-            "originalPoints": 51,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Pablo",
-            "fplId": 3722693,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Bettaieb",
-            "fplId": 66745,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 47,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Essam",
-            "fplId": 3131250,
-            "points": 70,
-            "originalPoints": 70,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Som3a",
-            "fplId": 128492,
-            "points": 44,
-            "originalPoints": 44,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Ghanem",
-            "fplId": 28782,
-            "points": 61,
-            "originalPoints": 61,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abbas",
-            "fplId": 11473,
-            "points": 134,
-            "originalPoints": 67,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 305,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 26,
+      "gameweek": 27,
       "home": "Brentford",
-      "away": "Arsenal",
-      "homeScore": 286,
-      "awayScore": 366,
+      "away": "Brighton",
+      "homeScore": 178,
+      "awayScore": 82,
       "homeData": {
         "players": [
           {
             "name": "Abdalmajeed",
             "fplId": 82070,
-            "points": 63,
-            "originalPoints": 63,
+            "points": 39,
+            "originalPoints": 39,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
@@ -4088,20 +138,20 @@
           {
             "name": "Saad",
             "fplId": 800938,
-            "points": 98,
-            "originalPoints": 49,
+            "points": 59,
+            "originalPoints": 59,
             "bb": 0,
             "tc": 0,
             "hits": 0,
-            "isCaptain": true,
+            "isCaptain": false,
             "yetToPlay": 0,
             "livePlayers": 0
           },
           {
             "name": "Yassin",
             "fplId": 140899,
-            "points": 80,
-            "originalPoints": 80,
+            "points": 39,
+            "originalPoints": 39,
             "bb": 0,
             "tc": 0,
             "hits": 0,
@@ -4112,6 +162,466 @@
           {
             "name": "Khalil",
             "fplId": 32220,
+            "points": 41,
+            "originalPoints": 41,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 178,
+        "totalHits": 0
+      },
+      "awayData": {
+        "players": [
+          {
+            "name": "Imad",
+            "fplId": 8010050,
+            "points": 34,
+            "originalPoints": 34,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Farran",
+            "fplId": 1144100,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Riad",
+            "fplId": 1032764,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Fares",
+            "fplId": 5851276,
+            "points": 48,
+            "originalPoints": 48,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 82,
+        "totalHits": 0
+      }
+    },
+    {
+      "gameweek": 27,
+      "home": "Chelsea",
+      "away": "Burnley",
+      "homeScore": 113,
+      "awayScore": 188,
+      "homeData": {
+        "players": [
+          {
+            "name": "Abadi",
+            "fplId": 8051740,
+            "points": 40,
+            "originalPoints": 40,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Sloom",
+            "fplId": 416767,
+            "points": 38,
+            "originalPoints": 38,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Sultan",
+            "fplId": 4628180,
+            "points": 39,
+            "originalPoints": 39,
+            "bb": 0,
+            "tc": 0,
+            "hits": -4,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Mosab",
+            "fplId": 1888,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 113,
+        "totalHits": -4
+      },
+      "awayData": {
+        "players": [
+          {
+            "name": "Yahya",
+            "fplId": 6447448,
+            "points": 41,
+            "originalPoints": 41,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Ziad",
+            "fplId": 3631,
+            "points": 51,
+            "originalPoints": 51,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Kingdom",
+            "fplId": 26576,
+            "points": 45,
+            "originalPoints": 45,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Tour Team",
+            "fplId": 505648,
+            "points": 51,
+            "originalPoints": 51,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 188,
+        "totalHits": 0
+      }
+    },
+    {
+      "gameweek": 27,
+      "home": "West Ham",
+      "away": "Bournemouth",
+      "homeScore": 152,
+      "awayScore": 108,
+      "homeData": {
+        "players": [
+          {
+            "name": "Abdulkarim",
+            "fplId": 21592,
+            "points": 48,
+            "originalPoints": 48,
+            "bb": 0,
+            "tc": 0,
+            "hits": -4,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Amory",
+            "fplId": 387190,
+            "points": 62,
+            "originalPoints": 62,
+            "bb": 0,
+            "tc": 0,
+            "hits": -4,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Saeed",
+            "fplId": 339137,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Zero",
+            "fplId": 12020,
+            "points": 50,
+            "originalPoints": 50,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 152,
+        "totalHits": -8
+      },
+      "awayData": {
+        "players": [
+          {
+            "name": "Top Master",
+            "fplId": 1924,
+            "points": 25,
+            "originalPoints": 25,
+            "bb": 0,
+            "tc": 0,
+            "hits": -8,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Az",
+            "fplId": 2682883,
+            "points": 40,
+            "originalPoints": 40,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Turki",
+            "fplId": 133251,
+            "points": 51,
+            "originalPoints": 51,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "AB",
+            "fplId": 14171,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 108,
+        "totalHits": -8
+      }
+    },
+    {
+      "gameweek": 27,
+      "home": "Man City",
+      "away": "Newcastle",
+      "homeScore": 156,
+      "awayScore": 173,
+      "homeData": {
+        "players": [
+          {
+            "name": "Ali Jaafar",
+            "fplId": 2919361,
+            "points": 38,
+            "originalPoints": 38,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Waseem",
+            "fplId": 70356,
+            "points": 39,
+            "originalPoints": 39,
+            "bb": 0,
+            "tc": 0,
+            "hits": -4,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Helaly",
+            "fplId": 849659,
+            "points": 40,
+            "originalPoints": 40,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Goatmessi",
+            "fplId": 6281,
+            "points": 43,
+            "originalPoints": 43,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 156,
+        "totalHits": -4
+      },
+      "awayData": {
+        "players": [
+          {
+            "name": "Afesha",
+            "fplId": 4623737,
+            "points": 57,
+            "originalPoints": 57,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Hamed",
+            "fplId": 69844,
+            "points": 37,
+            "originalPoints": 37,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Abodic",
+            "fplId": 908702,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Bader",
+            "fplId": 93125,
+            "points": 79,
+            "originalPoints": 79,
+            "bb": 1,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          }
+        ],
+        "totalPoints": 173,
+        "totalHits": 0
+      }
+    },
+    {
+      "gameweek": 27,
+      "home": "Crystal Palace",
+      "away": "Wolves",
+      "homeScore": 121,
+      "awayScore": 89,
+      "homeData": {
+        "players": [
+          {
+            "name": "Dr_fpl",
+            "fplId": 89630,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Fpl_pras",
+            "fplId": 9658,
+            "points": 34,
+            "originalPoints": 34,
+            "bb": 0,
+            "tc": 1,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Mo Amine",
+            "fplId": 1759,
+            "points": 42,
+            "originalPoints": 42,
+            "bb": 0,
+            "tc": 0,
+            "hits": 0,
+            "isCaptain": false,
+            "yetToPlay": 0,
+            "livePlayers": 0
+          },
+          {
+            "name": "Mo_is7",
+            "fplId": 2223190,
             "points": 45,
             "originalPoints": 45,
             "bb": 0,
@@ -4122,91 +632,30 @@
             "livePlayers": 0
           }
         ],
-        "totalPoints": 286,
+        "totalPoints": 121,
         "totalHits": 0
       },
       "awayData": {
         "players": [
           {
-            "name": "Klooz",
-            "fplId": 402954,
-            "points": 63,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Amaar",
-            "fplId": 2628878,
-            "points": 53,
-            "originalPoints": 53,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Al Kondos",
-            "fplId": 313223,
-            "points": 88,
-            "originalPoints": 88,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abdullatif",
-            "fplId": 864431,
-            "points": 166,
-            "originalPoints": 83,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 366,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 26,
-      "home": "Wolves",
-      "away": "Arsenal",
-      "homeScore": 256,
-      "awayScore": 370,
-      "homeData": {
-        "players": [
-          {
             "name": "Basel",
             "fplId": 408808,
-            "points": 126,
-            "originalPoints": 63,
+            "points": 57,
+            "originalPoints": 57,
             "bb": 0,
             "tc": 0,
             "hits": -4,
-            "isCaptain": true,
+            "isCaptain": false,
             "yetToPlay": 0,
             "livePlayers": 0
           },
           {
             "name": "Block5",
             "fplId": 511583,
-            "points": 66,
-            "originalPoints": 66,
+            "points": 36,
+            "originalPoints": 36,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
@@ -4215,10 +664,10 @@
           {
             "name": "AboNora",
             "fplId": 1915832,
-            "points": 68,
-            "originalPoints": 68,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
-            "tc": 1,
+            "tc": 0,
             "hits": 0,
             "isCaptain": false,
             "yetToPlay": 0,
@@ -4237,751 +686,7 @@
             "livePlayers": 0
           }
         ],
-        "totalPoints": 256,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Klooz",
-            "fplId": 402954,
-            "points": 63,
-            "originalPoints": 63,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Amaar",
-            "fplId": 2628878,
-            "points": 53,
-            "originalPoints": 53,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Al Kondos",
-            "fplId": 313223,
-            "points": 92,
-            "originalPoints": 92,
-            "bb": 0,
-            "tc": 1,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          },
-          {
-            "name": "Abdullatif",
-            "fplId": 864431,
-            "points": 166,
-            "originalPoints": 83,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": true,
-            "yetToPlay": 0,
-            "livePlayers": 0
-          }
-        ],
-        "totalPoints": 370,
-        "totalHits": -4
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "Aston Villa",
-      "away": "Leeds",
-      "homeScore": 33,
-      "awayScore": 19,
-      "homeData": {
-        "players": [
-          {
-            "name": "Mr Tactics",
-            "fplId": 36641,
-            "points": 6,
-            "originalPoints": 6,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Omar FPL",
-            "fplId": 7275,
-            "points": 7,
-            "originalPoints": 7,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Fplabudllah",
-            "fplId": 3317,
-            "points": 8,
-            "originalPoints": 8,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Bahjat",
-            "fplId": 3366,
-            "points": 12,
-            "originalPoints": 12,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          }
-        ],
-        "totalPoints": 33,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Qusai",
-            "fplId": 2821,
-            "points": 3,
-            "originalPoints": 3,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Sebahi",
-            "fplId": 416138,
-            "points": 7,
-            "originalPoints": 7,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Mustafa",
-            "fplId": 936783,
-            "points": 5,
-            "originalPoints": 5,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Van",
-            "fplId": 2295,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          }
-        ],
-        "totalPoints": 19,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "Brentford",
-      "away": "Brighton",
-      "homeScore": 26,
-      "awayScore": 11,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abdalmajeed",
-            "fplId": 82070,
-            "points": 8,
-            "originalPoints": 8,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Saad",
-            "fplId": 800938,
-            "points": 7,
-            "originalPoints": 7,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Yassin",
-            "fplId": 140899,
-            "points": 2,
-            "originalPoints": 2,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 10,
-            "livePlayers": 2
-          },
-          {
-            "name": "Khalil",
-            "fplId": 32220,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          }
-        ],
-        "totalPoints": 26,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Imad",
-            "fplId": 8010050,
-            "points": 3,
-            "originalPoints": 3,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Farran",
-            "fplId": 1144100,
-            "points": 3,
-            "originalPoints": 3,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Riad",
-            "fplId": 1032764,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Fares",
-            "fplId": 5851276,
-            "points": 1,
-            "originalPoints": 1,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 11,
-            "livePlayers": 1
-          }
-        ],
-        "totalPoints": 11,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "Chelsea",
-      "away": "Burnley",
-      "homeScore": 27,
-      "awayScore": 22,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abadi",
-            "fplId": 8051740,
-            "points": 11,
-            "originalPoints": 11,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 4,
-            "livePlayers": 8
-          },
-          {
-            "name": "Sloom",
-            "fplId": 416767,
-            "points": 11,
-            "originalPoints": 11,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 5,
-            "livePlayers": 7
-          },
-          {
-            "name": "Sultan",
-            "fplId": 4628180,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 11,
-            "livePlayers": 1
-          },
-          {
-            "name": "Mosab",
-            "fplId": 1888,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          }
-        ],
-        "totalPoints": 27,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Yahya",
-            "fplId": 6447448,
-            "points": 3,
-            "originalPoints": 3,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Ziad",
-            "fplId": 3631,
-            "points": 14,
-            "originalPoints": 14,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 5,
-            "livePlayers": 7
-          },
-          {
-            "name": "Kingdom",
-            "fplId": 26576,
-            "points": 3,
-            "originalPoints": 3,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Tour Team",
-            "fplId": 505648,
-            "points": 2,
-            "originalPoints": 2,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 10,
-            "livePlayers": 2
-          }
-        ],
-        "totalPoints": 22,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "West Ham",
-      "away": "Bournemouth",
-      "homeScore": 9,
-      "awayScore": -5,
-      "homeData": {
-        "players": [
-          {
-            "name": "Abdulkarim",
-            "fplId": 21592,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Amory",
-            "fplId": 387190,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Saeed",
-            "fplId": 339137,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Zero",
-            "fplId": 12020,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          }
-        ],
-        "totalPoints": 9,
-        "totalHits": -8
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Top Master",
-            "fplId": 1924,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -8,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Az",
-            "fplId": 2682883,
-            "points": 2,
-            "originalPoints": 2,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 10,
-            "livePlayers": 2
-          },
-          {
-            "name": "Turki",
-            "fplId": 133251,
-            "points": 5,
-            "originalPoints": 5,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "AB",
-            "fplId": 14171,
-            "points": 0,
-            "originalPoints": 0,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          }
-        ],
-        "totalPoints": -5,
-        "totalHits": -12
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "Man City",
-      "away": "Newcastle",
-      "homeScore": 24,
-      "awayScore": 43,
-      "homeData": {
-        "players": [
-          {
-            "name": "Ali Jaafar",
-            "fplId": 2919361,
-            "points": 7,
-            "originalPoints": 7,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
-          },
-          {
-            "name": "Waseem",
-            "fplId": 70356,
-            "points": 10,
-            "originalPoints": 10,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
-          },
-          {
-            "name": "Helaly",
-            "fplId": 849659,
-            "points": 10,
-            "originalPoints": 10,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
-          },
-          {
-            "name": "Goatmessi",
-            "fplId": 6281,
-            "points": 1,
-            "originalPoints": 1,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 11,
-            "livePlayers": 1
-          }
-        ],
-        "totalPoints": 24,
-        "totalHits": -4
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Afesha",
-            "fplId": 4623737,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Hamed",
-            "fplId": 69844,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 4,
-            "livePlayers": 8
-          },
-          {
-            "name": "Abodic",
-            "fplId": 908702,
-            "points": 12,
-            "originalPoints": 12,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Bader",
-            "fplId": 93125,
-            "points": 13,
-            "originalPoints": 13,
-            "bb": 1,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 11,
-            "livePlayers": 5
-          }
-        ],
-        "totalPoints": 43,
-        "totalHits": 0
-      }
-    },
-    {
-      "gameweek": 27,
-      "home": "Crystal Palace",
-      "away": "Wolves",
-      "homeScore": 24,
-      "awayScore": 21,
-      "homeData": {
-        "players": [
-          {
-            "name": "Dr_fpl",
-            "fplId": 89630,
-            "points": 5,
-            "originalPoints": 5,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Fpl_pras",
-            "fplId": 9658,
-            "points": 6,
-            "originalPoints": 6,
-            "bb": 0,
-            "tc": 1,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 6
-          },
-          {
-            "name": "Mo Amine",
-            "fplId": 1759,
-            "points": 9,
-            "originalPoints": 9,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
-          },
-          {
-            "name": "Mo_is7",
-            "fplId": 2223190,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          }
-        ],
-        "totalPoints": 24,
-        "totalHits": 0
-      },
-      "awayData": {
-        "players": [
-          {
-            "name": "Basel",
-            "fplId": 408808,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": -4,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "Block5",
-            "fplId": 511583,
-            "points": 4,
-            "originalPoints": 4,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
-          },
-          {
-            "name": "AboNora",
-            "fplId": 1915832,
-            "points": 10,
-            "originalPoints": 10,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
-          },
-          {
-            "name": "Almulhim",
-            "fplId": 225898,
-            "points": 7,
-            "originalPoints": 7,
-            "bb": 0,
-            "tc": 0,
-            "hits": 0,
-            "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
-          }
-        ],
-        "totalPoints": 21,
+        "totalPoints": 89,
         "totalHits": -4
       }
     },
@@ -4989,60 +694,60 @@
       "gameweek": 27,
       "home": "Nott'm Forest",
       "away": "Liverpool",
-      "homeScore": 19,
-      "awayScore": 36,
+      "homeScore": 79,
+      "awayScore": 116,
       "homeData": {
         "players": [
           {
             "name": "Sami",
             "fplId": 2877963,
-            "points": 5,
-            "originalPoints": 5,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Youssef",
             "fplId": 519,
-            "points": 3,
-            "originalPoints": 3,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Hamza",
             "fplId": 1884,
-            "points": 7,
-            "originalPoints": 7,
+            "points": 30,
+            "originalPoints": 30,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 5,
-            "livePlayers": 7
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Azzurri",
             "fplId": 15093,
-            "points": 4,
-            "originalPoints": 4,
+            "points": 49,
+            "originalPoints": 49,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 19,
+        "totalPoints": 79,
         "totalHits": 0
       },
       "awayData": {
@@ -5050,53 +755,53 @@
           {
             "name": "Essam",
             "fplId": 3131250,
-            "points": 7,
-            "originalPoints": 7,
+            "points": 42,
+            "originalPoints": 42,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Som3a",
             "fplId": 128492,
-            "points": 16,
-            "originalPoints": 16,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
-            "livePlayers": 8
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Ghanem",
             "fplId": 28782,
-            "points": 6,
-            "originalPoints": 6,
+            "points": 41,
+            "originalPoints": 41,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Abbas",
             "fplId": 11473,
-            "points": 11,
-            "originalPoints": 11,
+            "points": 37,
+            "originalPoints": 37,
             "bb": 0,
             "tc": 0,
             "hits": -4,
             "isCaptain": false,
-            "yetToPlay": 5,
-            "livePlayers": 7
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 36,
+        "totalPoints": 116,
         "totalHits": -4
       }
     },
@@ -5104,114 +809,114 @@
       "gameweek": 27,
       "home": "Sunderland",
       "away": "Fulham",
-      "homeScore": 25,
-      "awayScore": 32,
+      "homeScore": 91,
+      "awayScore": 186,
       "homeData": {
         "players": [
           {
             "name": "Fantastico",
             "fplId": 761193,
-            "points": 4,
-            "originalPoints": 4,
+            "points": 45,
+            "originalPoints": 45,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "King Kong",
             "fplId": 3194046,
-            "points": 1,
-            "originalPoints": 1,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Pablo",
             "fplId": 3722693,
-            "points": 10,
-            "originalPoints": 10,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Bettaieb",
             "fplId": 66745,
-            "points": 14,
-            "originalPoints": 14,
+            "points": 46,
+            "originalPoints": 46,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 25,
-        "totalHits": -4
+        "totalPoints": 91,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
           {
             "name": "Yaser",
             "fplId": 535209,
-            "points": 13,
-            "originalPoints": 13,
+            "points": 44,
+            "originalPoints": 44,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Zakaria",
             "fplId": 5112,
-            "points": 4,
-            "originalPoints": 4,
+            "points": 44,
+            "originalPoints": 44,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Meco",
             "fplId": 3103,
-            "points": 12,
-            "originalPoints": 12,
+            "points": 50,
+            "originalPoints": 50,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Amh",
             "fplId": 46469,
-            "points": 3,
-            "originalPoints": 3,
+            "points": 48,
+            "originalPoints": 48,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 32,
+        "totalPoints": 186,
         "totalHits": 0
       }
     },
@@ -5219,114 +924,114 @@
       "gameweek": 27,
       "home": "Spurs",
       "away": "Arsenal",
-      "homeScore": 24,
-      "awayScore": 34,
+      "homeScore": 77,
+      "awayScore": 101,
       "homeData": {
         "players": [
           {
             "name": "Jamal",
             "fplId": 44598,
-            "points": 13,
-            "originalPoints": 13,
+            "points": 37,
+            "originalPoints": 37,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Abdelwahid",
             "fplId": 129548,
-            "points": 2,
-            "originalPoints": 2,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Ultras",
             "fplId": 1163868,
-            "points": 8,
-            "originalPoints": 8,
+            "points": 40,
+            "originalPoints": 40,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Benzema",
             "fplId": 670218,
-            "points": 5,
-            "originalPoints": 5,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 24,
-        "totalHits": -4
+        "totalPoints": 77,
+        "totalHits": 0
       },
       "awayData": {
         "players": [
           {
             "name": "Klooz",
             "fplId": 402954,
-            "points": 12,
-            "originalPoints": 12,
+            "points": 44,
+            "originalPoints": 44,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Amaar",
             "fplId": 2628878,
-            "points": 10,
-            "originalPoints": 10,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Al Kondos",
             "fplId": 313223,
-            "points": 3,
-            "originalPoints": 3,
+            "points": 57,
+            "originalPoints": 57,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Abdullatif",
             "fplId": 864431,
-            "points": 9,
-            "originalPoints": 9,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 34,
+        "totalPoints": 101,
         "totalHits": 0
       }
     },
@@ -5334,60 +1039,60 @@
       "gameweek": 27,
       "home": "Everton",
       "away": "Man Utd",
-      "homeScore": 17,
-      "awayScore": 18,
+      "homeScore": 46,
+      "awayScore": 0,
       "homeData": {
         "players": [
           {
             "name": "Bayrem",
             "fplId": 11080,
-            "points": 5,
-            "originalPoints": 5,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Elra3y",
             "fplId": 1887,
-            "points": 4,
-            "originalPoints": 4,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 8,
-            "livePlayers": 4
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Fpl Abdullah",
             "fplId": 35118,
-            "points": 7,
-            "originalPoints": 7,
+            "points": 46,
+            "originalPoints": 46,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Galal",
             "fplId": 204902,
-            "points": 1,
-            "originalPoints": 1,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 11,
-            "livePlayers": 1
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 17,
+        "totalPoints": 46,
         "totalHits": 0
       },
       "awayData": {
@@ -5395,54 +1100,54 @@
           {
             "name": "Baher",
             "fplId": 193784,
-            "points": 4,
-            "originalPoints": 4,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Amer",
             "fplId": 86994,
-            "points": 6,
-            "originalPoints": 6,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
-            "hits": -4,
+            "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 6,
-            "livePlayers": 6
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Ibrahim",
             "fplId": 63325,
-            "points": 5,
-            "originalPoints": 5,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 7,
-            "livePlayers": 5
+            "yetToPlay": 0,
+            "livePlayers": 0
           },
           {
             "name": "Abdullah LFC",
             "fplId": 10383,
-            "points": 7,
-            "originalPoints": 7,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
-            "livePlayers": 3
+            "yetToPlay": 0,
+            "livePlayers": 0
           }
         ],
-        "totalPoints": 18,
-        "totalHits": -4
+        "totalPoints": 0,
+        "totalHits": 0
       }
     }
   ],
@@ -5517,12 +1222,12 @@
   "benchPoints": {
     "Mr Tactics": {
       "team": "Aston Villa",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 36641
     },
     "Omar FPL": {
       "team": "Aston Villa",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 7275
     },
     "Fplabudllah": {
@@ -5532,27 +1237,27 @@
     },
     "Bahjat": {
       "team": "Aston Villa",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 3366
     },
     "Qusai": {
       "team": "Leeds",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 2821
     },
     "Sebahi": {
       "team": "Leeds",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 416138
     },
     "Mustafa": {
       "team": "Leeds",
-      "benchPoints": 1,
+      "benchPoints": 8,
       "fplId": 936783
     },
     "Van": {
       "team": "Leeds",
-      "benchPoints": 1,
+      "benchPoints": 8,
       "fplId": 2295
     },
     "Abdalmajeed": {
@@ -5562,272 +1267,272 @@
     },
     "Saad": {
       "team": "Brentford",
-      "benchPoints": 2,
+      "benchPoints": 6,
       "fplId": 800938
     },
     "Yassin": {
       "team": "Brentford",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 140899
     },
     "Khalil": {
       "team": "Brentford",
-      "benchPoints": 1,
+      "benchPoints": 7,
       "fplId": 32220
     },
     "Imad": {
       "team": "Brighton",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 8010050
     },
     "Farran": {
       "team": "Brighton",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 1144100
     },
     "Riad": {
       "team": "Brighton",
-      "benchPoints": 1,
+      "benchPoints": 5,
       "fplId": 1032764
     },
     "Fares": {
       "team": "Brighton",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 5851276
     },
     "Abadi": {
       "team": "Chelsea",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 8051740
     },
     "Sloom": {
       "team": "Chelsea",
-      "benchPoints": 2,
+      "benchPoints": 8,
       "fplId": 416767
     },
     "Sultan": {
       "team": "Chelsea",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 4628180
     },
     "Mosab": {
       "team": "Chelsea",
-      "benchPoints": 1,
+      "benchPoints": 13,
       "fplId": 1888
     },
     "Yahya": {
       "team": "Burnley",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 6447448
     },
     "Ziad": {
       "team": "Burnley",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 3631
     },
     "Kingdom": {
       "team": "Burnley",
-      "benchPoints": 1,
+      "benchPoints": 4,
       "fplId": 26576
     },
     "Tour Team": {
       "team": "Burnley",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 505648
     },
     "Abdulkarim": {
       "team": "West Ham",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 21592
     },
     "Amory": {
       "team": "West Ham",
-      "benchPoints": 4,
+      "benchPoints": 0,
       "fplId": 387190
     },
     "Saeed": {
       "team": "West Ham",
-      "benchPoints": 1,
+      "benchPoints": 2,
       "fplId": 339137
     },
     "Zero": {
       "team": "West Ham",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 12020
     },
     "Top Master": {
       "team": "Bournemouth",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1924
     },
     "Az": {
       "team": "Bournemouth",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 2682883
     },
     "Turki": {
       "team": "Bournemouth",
-      "benchPoints": 1,
+      "benchPoints": 7,
       "fplId": 133251
     },
     "AB": {
       "team": "Bournemouth",
-      "benchPoints": 1,
+      "benchPoints": 8,
       "fplId": 14171
     },
     "Ali Jaafar": {
       "team": "Man City",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 2919361
     },
     "Waseem": {
       "team": "Man City",
-      "benchPoints": 1,
+      "benchPoints": 14,
       "fplId": 70356
     },
     "Helaly": {
       "team": "Man City",
-      "benchPoints": 3,
+      "benchPoints": 12,
       "fplId": 849659
     },
     "Goatmessi": {
       "team": "Man City",
-      "benchPoints": 2,
+      "benchPoints": 10,
       "fplId": 6281
     },
     "Afesha": {
       "team": "Newcastle",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 4623737
     },
     "Hamed": {
       "team": "Newcastle",
-      "benchPoints": 2,
+      "benchPoints": 6,
       "fplId": 69844
     },
     "Abodic": {
       "team": "Newcastle",
-      "benchPoints": 1,
+      "benchPoints": 11,
       "fplId": 908702
     },
     "Bader": {
       "team": "Newcastle",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 93125
     },
     "Dr_fpl": {
       "team": "Crystal Palace",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 89630
     },
     "Fpl_pras": {
       "team": "Crystal Palace",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 9658
     },
     "Mo Amine": {
       "team": "Crystal Palace",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1759
     },
     "Mo_is7": {
       "team": "Crystal Palace",
-      "benchPoints": 2,
+      "benchPoints": 5,
       "fplId": 2223190
     },
     "Basel": {
       "team": "Wolves",
-      "benchPoints": 0,
+      "benchPoints": 7,
       "fplId": 408808
     },
     "Block5": {
       "team": "Wolves",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 511583
     },
     "AboNora": {
       "team": "Wolves",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1915832
     },
     "Almulhim": {
       "team": "Wolves",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 225898
     },
     "Sami": {
       "team": "Nott'm Forest",
-      "benchPoints": 1,
+      "benchPoints": 4,
       "fplId": 2877963
     },
     "Youssef": {
       "team": "Nott'm Forest",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 519
     },
     "Hamza": {
       "team": "Nott'm Forest",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1884
     },
     "Azzurri": {
       "team": "Nott'm Forest",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 15093
     },
     "Essam": {
       "team": "Liverpool",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 3131250
     },
     "Som3a": {
       "team": "Liverpool",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 128492
     },
     "Ghanem": {
       "team": "Liverpool",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 28782
     },
     "Abbas": {
       "team": "Liverpool",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 11473
     },
     "Fantastico": {
       "team": "Sunderland",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 761193
     },
     "King Kong": {
       "team": "Sunderland",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 3194046
     },
     "Pablo": {
       "team": "Sunderland",
-      "benchPoints": 2,
+      "benchPoints": 11,
       "fplId": 3722693
     },
     "Bettaieb": {
       "team": "Sunderland",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 66745
     },
     "Yaser": {
       "team": "Fulham",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 535209
     },
     "Zakaria": {
       "team": "Fulham",
-      "benchPoints": 1,
+      "benchPoints": 5,
       "fplId": 5112
     },
     "Meco": {
       "team": "Fulham",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 3103
     },
     "Amh": {
@@ -5837,32 +1542,32 @@
     },
     "Jamal": {
       "team": "Spurs",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 44598
     },
     "Abdelwahid": {
       "team": "Spurs",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 129548
     },
     "Ultras": {
       "team": "Spurs",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1163868
     },
     "Benzema": {
       "team": "Spurs",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 670218
     },
     "Klooz": {
       "team": "Arsenal",
-      "benchPoints": 1,
+      "benchPoints": 14,
       "fplId": 402954
     },
     "Amaar": {
       "team": "Arsenal",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 2628878
     },
     "Al Kondos": {
@@ -5872,50 +1577,50 @@
     },
     "Abdullatif": {
       "team": "Arsenal",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 864431
     },
     "Bayrem": {
       "team": "Everton",
-      "benchPoints": 1,
+      "benchPoints": 7,
       "fplId": 11080
     },
     "Elra3y": {
       "team": "Everton",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 1887
     },
     "Fpl Abdullah": {
       "team": "Everton",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 35118
     },
     "Galal": {
       "team": "Everton",
-      "benchPoints": 1,
+      "benchPoints": 0,
       "fplId": 204902
     },
     "Baher": {
       "team": "Man Utd",
-      "benchPoints": 2,
+      "benchPoints": 0,
       "fplId": 193784
     },
     "Amer": {
       "team": "Man Utd",
-      "benchPoints": 2,
+      "benchPoints": 10,
       "fplId": 86994
     },
     "Ibrahim": {
       "team": "Man Utd",
-      "benchPoints": 1,
+      "benchPoints": 7,
       "fplId": 63325
     },
     "Abdullah LFC": {
       "team": "Man Utd",
-      "benchPoints": 6,
+      "benchPoints": 0,
       "fplId": 10383
     }
   },
   "lastCalculatedGW": 27,
-  "lastUpdate": "2026-02-21T15:49:30.396Z"
+  "lastUpdate": "2026-02-24T20:03:28.759Z"
 }
