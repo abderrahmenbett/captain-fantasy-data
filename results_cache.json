@@ -6674,7 +6674,7 @@
       "gameweek": 33,
       "home": "Brentford",
       "away": "Fulham",
-      "homeScore": 292,
+      "homeScore": 200,
       "awayScore": 228,
       "homeData": {
         "players": [
@@ -6687,7 +6687,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -6717,17 +6717,17 @@
           {
             "name": "Khalil",
             "fplId": 32220,
-            "points": 92,
-            "originalPoints": 92,
-            "bb": 1,
+            "points": 0,
+            "originalPoints": 0,
+            "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 10,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
-        "totalPoints": 292,
+        "totalPoints": 200,
         "totalHits": 0
       },
       "awayData": {
@@ -8387,7 +8387,7 @@
     },
     "Riad": {
       "team": "Brighton",
-      "benchPoints": 30,
+      "benchPoints": 0,
       "fplId": 1032764
     },
     "Fares": {
@@ -8472,7 +8472,7 @@
     },
     "Bettaieb": {
       "team": "Sunderland",
-      "benchPoints": 32,
+      "benchPoints": 0,
       "fplId": 66745
     },
     "Bayrem": {
@@ -8507,7 +8507,7 @@
     },
     "Ghanem": {
       "team": "Liverpool",
-      "benchPoints": 13,
+      "benchPoints": 0,
       "fplId": 28782
     },
     "Abbas": {
@@ -8597,7 +8597,7 @@
     },
     "Dr_fpl": {
       "team": "Crystal Palace",
-      "benchPoints": 36,
+      "benchPoints": 0,
       "fplId": 89630
     },
     "Fpl_pras": {
@@ -8612,7 +8612,7 @@
     },
     "Mo_is7": {
       "team": "Crystal Palace",
-      "benchPoints": 41,
+      "benchPoints": 0,
       "fplId": 2223190
     },
     "Abdulkarim": {
@@ -8637,5 +8637,5 @@
     }
   },
   "lastCalculatedGW": 33,
-  "lastUpdate": "2026-04-22T09:48:15.949Z"
+  "lastUpdate": "2026-04-22T09:50:04.683Z"
 }
