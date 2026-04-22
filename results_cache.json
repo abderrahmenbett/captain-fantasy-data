@@ -7467,7 +7467,7 @@
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 9,
+            "yetToPlay": 0,
             "livePlayers": 0
           }
         ],
@@ -7595,7 +7595,7 @@
       "home": "Man City",
       "away": "Arsenal",
       "homeScore": 229,
-      "awayScore": 258,
+      "awayScore": 222,
       "homeData": {
         "players": [
           {
@@ -7679,13 +7679,13 @@
           {
             "name": "Al Kondos",
             "fplId": 313223,
-            "points": 36,
-            "originalPoints": 36,
+            "points": 0,
+            "originalPoints": 0,
             "bb": 0,
             "tc": 0,
             "hits": 0,
             "isCaptain": false,
-            "yetToPlay": 4,
+            "yetToPlay": 0,
             "livePlayers": 0
           },
           {
@@ -7701,7 +7701,7 @@
             "livePlayers": 0
           }
         ],
-        "totalPoints": 258,
+        "totalPoints": 222,
         "totalHits": 0
       }
     },
@@ -8317,7 +8317,7 @@
     },
     "Afesha": {
       "team": "Newcastle",
-      "benchPoints": 47,
+      "benchPoints": 0,
       "fplId": 4623737
     },
     "Hamed": {
@@ -8637,5 +8637,5 @@
     }
   },
   "lastCalculatedGW": 33,
-  "lastUpdate": "2026-04-22T09:46:50.650Z"
+  "lastUpdate": "2026-04-22T09:47:56.108Z"
 }
